@@ -1,0 +1,21 @@
+{
+  "mode": "triple",
+  "base": 48,
+  "epochs": 120,
+  "batch_size": 16,
+  "lr": 0.0002,
+  "weight_decay": 0.0001,
+  "seed": 312,
+  "gb_drop": 0.6,
+  "amp": true,
+  "weights": {
+    "SSIM": 1.0,
+    "Hue": 1.0,
+    "Cos": 1.0
+  },
+  "name": "drop_06",
+  "vis_every": 10,
+  "cam_every": 50,
+  "vis_samples": 3,
+  "amp_dtype": "bf16"
+}

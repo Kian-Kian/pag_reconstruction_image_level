@@ -1,0 +1,61 @@
+{
+  "status": "Reproduction experiment plan",
+  "hpo": [
+    "capacity_16",
+    "capacity_32",
+    "capacity_48",
+    "capacity_64",
+    "lr_0.01",
+    "lr_0.001",
+    "lr_0.0001",
+    "wd_0.01",
+    "wd_0.001"
+  ],
+  "loss_and_drop": [
+    "loss_01",
+    "loss_02",
+    "loss_03",
+    "loss_04",
+    "loss_05",
+    "loss_06",
+    "loss_07",
+    "loss_08",
+    "drop_00",
+    "drop_01",
+    "drop_02",
+    "drop_03",
+    "drop_04",
+    "drop_05",
+    "drop_06",
+    "drop_07",
+    "drop_08",
+    "drop_09",
+    "drop_10"
+  ],
+  "final_configs_generated_after_hpo": false,
+  "main_seeds": [
+    312,
+    313,
+    314
+  ],
+  "base_seed": 312,
+  "epochs": {
+    "hpo": 100,
+    "loss_drop": 120,
+    "main_and_single_modality": 200
+  },
+  "batch_size": 16,
+  "amp": true,
+  "vis_every": 10,
+  "cam_every": 50,
+  "vis_samples": 3,
+  "selection": "Minimum validation composite loss; fixed weights1 for HPO; no test based selection",
+  "gb_drop_selection": "minimum validation loss among drop_00..drop_10",
+  "single_modality": "single encoder with grayscale input repeated into3 channels; same final hyperparameters",
+  "tests": "All configurations may be evaluated for reporting only after final configs locked",
+  "precision_policy": {
+    "capacity_16_32_48_64": "fp16 retained",
+    "all_remaining": "bf16",
+    "caveat": "capacity and other scans use different precision; disclose, do not attribute differences solely to hyperparameters"
+  }
+}

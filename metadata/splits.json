@@ -1,0 +1,4663 @@
+{
+  "split_seed": 312,
+  "test_source_ids": [
+    "006",
+    "009",
+    "026",
+    "040",
+    "060",
+    "063",
+    "064",
+    "069",
+    "071",
+    "075"
+  ],
+  "pool_source_ids": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "007",
+    "008",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "027",
+    "028",
+    "029",
+    "030",
+    "031",
+    "032",
+    "033",
+    "034",
+    "035",
+    "036",
+    "037",
+    "038",
+    "039",
+    "041",
+    "042",
+    "043",
+    "044",
+    "045",
+    "046",
+    "047",
+    "048",
+    "049",
+    "050",
+    "051",
+    "052",
+    "053",
+    "054",
+    "055",
+    "056",
+    "057",
+    "058",
+    "059",
+    "061",
+    "062",
+    "065",
+    "066",
+    "067",
+    "068",
+    "070",
+    "072",
+    "073",
+    "074",
+    "076",
+    "077",
+    "078",
+    "079",
+    "080",
+    "081",
+    "082",
+    "083",
+    "084",
+    "085",
+    "086",
+    "087",
+    "088",
+    "089",
+    "090",
+    "091",
+    "092",
+    "093",
+    "094",
+    "095",
+    "096",
+    "097",
+    "098",
+    "099",
+    "100"
+  ],
+  "train": [
+    {
+      "source_id": "041",
+      "variant": "crop01",
+      "sample_id": "041_crop01"
+    },
+    {
+      "source_id": "051",
+      "variant": "flip_v",
+      "sample_id": "051_flip_v"
+    },
+    {
+      "source_id": "088",
+      "variant": "rot90",
+      "sample_id": "088_rot90"
+    },
+    {
+      "source_id": "044",
+      "variant": "crop10",
+      "sample_id": "044_crop10"
+    },
+    {
+      "source_id": "032",
+      "variant": "rot270",
+      "sample_id": "032_rot270"
+    },
+    {
+      "source_id": "068",
+      "variant": "crop11",
+      "sample_id": "068_crop11"
+    },
+    {
+      "source_id": "003",
+      "variant": "crop10",
+      "sample_id": "003_crop10"
+    },
+    {
+      "source_id": "031",
+      "variant": "crop10",
+      "sample_id": "031_crop10"
+    },
+    {
+      "source_id": "068",
+      "variant": "crop01",
+      "sample_id": "068_crop01"
+    },
+    {
+      "source_id": "079",
+      "variant": "crop00",
+      "sample_id": "079_crop00"
+    },
+    {
+      "source_id": "084",
+      "variant": "crop10",
+      "sample_id": "084_crop10"
+    },
+    {
+      "source_id": "043",
+      "variant": "flip_h",
+      "sample_id": "043_flip_h"
+    },
+    {
+      "source_id": "033",
+      "variant": "flip_h",
+      "sample_id": "033_flip_h"
+    },
+    {
+      "source_id": "091",
+      "variant": "rot270",
+      "sample_id": "091_rot270"
+    },
+    {
+      "source_id": "052",
+      "variant": "crop01",
+      "sample_id": "052_crop01"
+    },
+    {
+      "source_id": "092",
+      "variant": "rot180",
+      "sample_id": "092_rot180"
+    },
+    {
+      "source_id": "037",
+      "variant": "rot270",
+      "sample_id": "037_rot270"
+    },
+    {
+      "source_id": "059",
+      "variant": "flip_h",
+      "sample_id": "059_flip_h"
+    },
+    {
+      "source_id": "021",
+      "variant": "rot270",
+      "sample_id": "021_rot270"
+    },
+    {
+      "source_id": "055",
+      "variant": "rot270",
+      "sample_id": "055_rot270"
+    },
+    {
+      "source_id": "051",
+      "variant": "crop00",
+      "sample_id": "051_crop00"
+    },
+    {
+      "source_id": "028",
+      "variant": "flip_v",
+      "sample_id": "028_flip_v"
+    },
+    {
+      "source_id": "030",
+      "variant": "flip_h",
+      "sample_id": "030_flip_h"
+    },
+    {
+      "source_id": "038",
+      "variant": "crop01",
+      "sample_id": "038_crop01"
+    },
+    {
+      "source_id": "039",
+      "variant": "crop01",
+      "sample_id": "039_crop01"
+    },
+    {
+      "source_id": "011",
+      "variant": "flip_v",
+      "sample_id": "011_flip_v"
+    },
+    {
+      "source_id": "099",
+      "variant": "flip_v",
+      "sample_id": "099_flip_v"
+    },
+    {
+      "source_id": "031",
+      "variant": "rot90",
+      "sample_id": "031_rot90"
+    },
+    {
+      "source_id": "001",
+      "variant": "flip_h",
+      "sample_id": "001_flip_h"
+    },
+    {
+      "source_id": "100",
+      "variant": "rot90",
+      "sample_id": "100_rot90"
+    },
+    {
+      "source_id": "039",
+      "variant": "crop10",
+      "sample_id": "039_crop10"
+    },
+    {
+      "source_id": "067",
+      "variant": "crop00",
+      "sample_id": "067_crop00"
+    },
+    {
+      "source_id": "003",
+      "variant": "rot180",
+      "sample_id": "003_rot180"
+    },
+    {
+      "source_id": "074",
+      "variant": "flip_v",
+      "sample_id": "074_flip_v"
+    },
+    {
+      "source_id": "017",
+      "variant": "crop11",
+      "sample_id": "017_crop11"
+    },
+    {
+      "source_id": "078",
+      "variant": "rot90",
+      "sample_id": "078_rot90"
+    },
+    {
+      "source_id": "056",
+      "variant": "crop11",
+      "sample_id": "056_crop11"
+    },
+    {
+      "source_id": "080",
+      "variant": "rot90",
+      "sample_id": "080_rot90"
+    },
+    {
+      "source_id": "028",
+      "variant": "crop00",
+      "sample_id": "028_crop00"
+    },
+    {
+      "source_id": "077",
+      "variant": "rot90",
+      "sample_id": "077_rot90"
+    },
+    {
+      "source_id": "015",
+      "variant": "flip_h",
+      "sample_id": "015_flip_h"
+    },
+    {
+      "source_id": "077",
+      "variant": "crop01",
+      "sample_id": "077_crop01"
+    },
+    {
+      "source_id": "082",
+      "variant": "crop00",
+      "sample_id": "082_crop00"
+    },
+    {
+      "source_id": "027",
+      "variant": "crop10",
+      "sample_id": "027_crop10"
+    },
+    {
+      "source_id": "086",
+      "variant": "flip_h",
+      "sample_id": "086_flip_h"
+    },
+    {
+      "source_id": "034",
+      "variant": "crop00",
+      "sample_id": "034_crop00"
+    },
+    {
+      "source_id": "011",
+      "variant": "original",
+      "sample_id": "011_original"
+    },
+    {
+      "source_id": "097",
+      "variant": "flip_h",
+      "sample_id": "097_flip_h"
+    },
+    {
+      "source_id": "082",
+      "variant": "rot180",
+      "sample_id": "082_rot180"
+    },
+    {
+      "source_id": "052",
+      "variant": "flip_h",
+      "sample_id": "052_flip_h"
+    },
+    {
+      "source_id": "023",
+      "variant": "crop11",
+      "sample_id": "023_crop11"
+    },
+    {
+      "source_id": "051",
+      "variant": "rot180",
+      "sample_id": "051_rot180"
+    },
+    {
+      "source_id": "022",
+      "variant": "crop10",
+      "sample_id": "022_crop10"
+    },
+    {
+      "source_id": "021",
+      "variant": "original",
+      "sample_id": "021_original"
+    },
+    {
+      "source_id": "087",
+      "variant": "flip_h",
+      "sample_id": "087_flip_h"
+    },
+    {
+      "source_id": "035",
+      "variant": "rot90",
+      "sample_id": "035_rot90"
+    },
+    {
+      "source_id": "078",
+      "variant": "original",
+      "sample_id": "078_original"
+    },
+    {
+      "source_id": "008",
+      "variant": "rot180",
+      "sample_id": "008_rot180"
+    },
+    {
+      "source_id": "096",
+      "variant": "crop00",
+      "sample_id": "096_crop00"
+    },
+    {
+      "source_id": "002",
+      "variant": "rot270",
+      "sample_id": "002_rot270"
+    },
+    {
+      "source_id": "056",
+      "variant": "crop00",
+      "sample_id": "056_crop00"
+    },
+    {
+      "source_id": "065",
+      "variant": "rot90",
+      "sample_id": "065_rot90"
+    },
+    {
+      "source_id": "004",
+      "variant": "flip_v",
+      "sample_id": "004_flip_v"
+    },
+    {
+      "source_id": "067",
+      "variant": "flip_v",
+      "sample_id": "067_flip_v"
+    },
+    {
+      "source_id": "091",
+      "variant": "flip_h",
+      "sample_id": "091_flip_h"
+    },
+    {
+      "source_id": "049",
+      "variant": "original",
+      "sample_id": "049_original"
+    },
+    {
+      "source_id": "039",
+      "variant": "rot90",
+      "sample_id": "039_rot90"
+    },
+    {
+      "source_id": "097",
+      "variant": "rot180",
+      "sample_id": "097_rot180"
+    },
+    {
+      "source_id": "019",
+      "variant": "crop11",
+      "sample_id": "019_crop11"
+    },
+    {
+      "source_id": "092",
+      "variant": "rot270",
+      "sample_id": "092_rot270"
+    },
+    {
+      "source_id": "028",
+      "variant": "rot90",
+      "sample_id": "028_rot90"
+    },
+    {
+      "source_id": "021",
+      "variant": "rot90",
+      "sample_id": "021_rot90"
+    },
+    {
+      "source_id": "088",
+      "variant": "flip_h",
+      "sample_id": "088_flip_h"
+    },
+    {
+      "source_id": "073",
+      "variant": "crop01",
+      "sample_id": "073_crop01"
+    },
+    {
+      "source_id": "013",
+      "variant": "crop01",
+      "sample_id": "013_crop01"
+    },
+    {
+      "source_id": "034",
+      "variant": "rot270",
+      "sample_id": "034_rot270"
+    },
+    {
+      "source_id": "048",
+      "variant": "crop01",
+      "sample_id": "048_crop01"
+    },
+    {
+      "source_id": "025",
+      "variant": "flip_v",
+      "sample_id": "025_flip_v"
+    },
+    {
+      "source_id": "072",
+      "variant": "crop11",
+      "sample_id": "072_crop11"
+    },
+    {
+      "source_id": "045",
+      "variant": "crop00",
+      "sample_id": "045_crop00"
+    },
+    {
+      "source_id": "036",
+      "variant": "crop01",
+      "sample_id": "036_crop01"
+    },
+    {
+      "source_id": "012",
+      "variant": "crop01",
+      "sample_id": "012_crop01"
+    },
+    {
+      "source_id": "029",
+      "variant": "original",
+      "sample_id": "029_original"
+    },
+    {
+      "source_id": "048",
+      "variant": "crop11",
+      "sample_id": "048_crop11"
+    },
+    {
+      "source_id": "078",
+      "variant": "crop01",
+      "sample_id": "078_crop01"
+    },
+    {
+      "source_id": "087",
+      "variant": "crop00",
+      "sample_id": "087_crop00"
+    },
+    {
+      "source_id": "053",
+      "variant": "crop01",
+      "sample_id": "053_crop01"
+    },
+    {
+      "source_id": "079",
+      "variant": "rot270",
+      "sample_id": "079_rot270"
+    },
+    {
+      "source_id": "007",
+      "variant": "crop10",
+      "sample_id": "007_crop10"
+    },
+    {
+      "source_id": "047",
+      "variant": "flip_h",
+      "sample_id": "047_flip_h"
+    },
+    {
+      "source_id": "074",
+      "variant": "crop10",
+      "sample_id": "074_crop10"
+    },
+    {
+      "source_id": "061",
+      "variant": "rot180",
+      "sample_id": "061_rot180"
+    },
+    {
+      "source_id": "038",
+      "variant": "crop11",
+      "sample_id": "038_crop11"
+    },
+    {
+      "source_id": "070",
+      "variant": "crop00",
+      "sample_id": "070_crop00"
+    },
+    {
+      "source_id": "079",
+      "variant": "crop01",
+      "sample_id": "079_crop01"
+    },
+    {
+      "source_id": "065",
+      "variant": "crop11",
+      "sample_id": "065_crop11"
+    },
+    {
+      "source_id": "007",
+      "variant": "flip_v",
+      "sample_id": "007_flip_v"
+    },
+    {
+      "source_id": "090",
+      "variant": "crop01",
+      "sample_id": "090_crop01"
+    },
+    {
+      "source_id": "047",
+      "variant": "rot90",
+      "sample_id": "047_rot90"
+    },
+    {
+      "source_id": "007",
+      "variant": "crop11",
+      "sample_id": "007_crop11"
+    },
+    {
+      "source_id": "073",
+      "variant": "crop10",
+      "sample_id": "073_crop10"
+    },
+    {
+      "source_id": "045",
+      "variant": "flip_h",
+      "sample_id": "045_flip_h"
+    },
+    {
+      "source_id": "066",
+      "variant": "crop01",
+      "sample_id": "066_crop01"
+    },
+    {
+      "source_id": "067",
+      "variant": "crop10",
+      "sample_id": "067_crop10"
+    },
+    {
+      "source_id": "052",
+      "variant": "rot180",
+      "sample_id": "052_rot180"
+    },
+    {
+      "source_id": "093",
+      "variant": "crop01",
+      "sample_id": "093_crop01"
+    },
+    {
+      "source_id": "012",
+      "variant": "rot90",
+      "sample_id": "012_rot90"
+    },
+    {
+      "source_id": "085",
+      "variant": "rot90",
+      "sample_id": "085_rot90"
+    },
+    {
+      "source_id": "050",
+      "variant": "rot270",
+      "sample_id": "050_rot270"
+    },
+    {
+      "source_id": "022",
+      "variant": "original",
+      "sample_id": "022_original"
+    },
+    {
+      "source_id": "052",
+      "variant": "crop10",
+      "sample_id": "052_crop10"
+    },
+    {
+      "source_id": "100",
+      "variant": "flip_v",
+      "sample_id": "100_flip_v"
+    },
+    {
+      "source_id": "055",
+      "variant": "crop11",
+      "sample_id": "055_crop11"
+    },
+    {
+      "source_id": "034",
+      "variant": "crop10",
+      "sample_id": "034_crop10"
+    },
+    {
+      "source_id": "081",
+      "variant": "original",
+      "sample_id": "081_original"
+    },
+    {
+      "source_id": "001",
+      "variant": "crop00",
+      "sample_id": "001_crop00"
+    },
+    {
+      "source_id": "072",
+      "variant": "flip_h",
+      "sample_id": "072_flip_h"
+    },
+    {
+      "source_id": "061",
+      "variant": "crop00",
+      "sample_id": "061_crop00"
+    },
+    {
+      "source_id": "047",
+      "variant": "crop01",
+      "sample_id": "047_crop01"
+    },
+    {
+      "source_id": "017",
+      "variant": "rot180",
+      "sample_id": "017_rot180"
+    },
+    {
+      "source_id": "013",
+      "variant": "crop11",
+      "sample_id": "013_crop11"
+    },
+    {
+      "source_id": "034",
+      "variant": "crop11",
+      "sample_id": "034_crop11"
+    },
+    {
+      "source_id": "047",
+      "variant": "original",
+      "sample_id": "047_original"
+    },
+    {
+      "source_id": "099",
+      "variant": "rot180",
+      "sample_id": "099_rot180"
+    },
+    {
+      "source_id": "047",
+      "variant": "rot180",
+      "sample_id": "047_rot180"
+    },
+    {
+      "source_id": "051",
+      "variant": "crop11",
+      "sample_id": "051_crop11"
+    },
+    {
+      "source_id": "016",
+      "variant": "flip_h",
+      "sample_id": "016_flip_h"
+    },
+    {
+      "source_id": "091",
+      "variant": "rot90",
+      "sample_id": "091_rot90"
+    },
+    {
+      "source_id": "042",
+      "variant": "flip_v",
+      "sample_id": "042_flip_v"
+    },
+    {
+      "source_id": "087",
+      "variant": "flip_v",
+      "sample_id": "087_flip_v"
+    },
+    {
+      "source_id": "050",
+      "variant": "crop10",
+      "sample_id": "050_crop10"
+    },
+    {
+      "source_id": "085",
+      "variant": "crop01",
+      "sample_id": "085_crop01"
+    },
+    {
+      "source_id": "061",
+      "variant": "flip_h",
+      "sample_id": "061_flip_h"
+    },
+    {
+      "source_id": "098",
+      "variant": "rot90",
+      "sample_id": "098_rot90"
+    },
+    {
+      "source_id": "094",
+      "variant": "flip_v",
+      "sample_id": "094_flip_v"
+    },
+    {
+      "source_id": "035",
+      "variant": "original",
+      "sample_id": "035_original"
+    },
+    {
+      "source_id": "053",
+      "variant": "original",
+      "sample_id": "053_original"
+    },
+    {
+      "source_id": "018",
+      "variant": "crop10",
+      "sample_id": "018_crop10"
+    },
+    {
+      "source_id": "002",
+      "variant": "flip_v",
+      "sample_id": "002_flip_v"
+    },
+    {
+      "source_id": "072",
+      "variant": "crop00",
+      "sample_id": "072_crop00"
+    },
+    {
+      "source_id": "080",
+      "variant": "crop10",
+      "sample_id": "080_crop10"
+    },
+    {
+      "source_id": "011",
+      "variant": "crop00",
+      "sample_id": "011_crop00"
+    },
+    {
+      "source_id": "033",
+      "variant": "crop10",
+      "sample_id": "033_crop10"
+    },
+    {
+      "source_id": "054",
+      "variant": "rot180",
+      "sample_id": "054_rot180"
+    },
+    {
+      "source_id": "019",
+      "variant": "rot180",
+      "sample_id": "019_rot180"
+    },
+    {
+      "source_id": "099",
+      "variant": "crop00",
+      "sample_id": "099_crop00"
+    },
+    {
+      "source_id": "007",
+      "variant": "crop01",
+      "sample_id": "007_crop01"
+    },
+    {
+      "source_id": "003",
+      "variant": "crop11",
+      "sample_id": "003_crop11"
+    },
+    {
+      "source_id": "016",
+      "variant": "flip_v",
+      "sample_id": "016_flip_v"
+    },
+    {
+      "source_id": "025",
+      "variant": "rot270",
+      "sample_id": "025_rot270"
+    },
+    {
+      "source_id": "079",
+      "variant": "crop10",
+      "sample_id": "079_crop10"
+    },
+    {
+      "source_id": "058",
+      "variant": "crop01",
+      "sample_id": "058_crop01"
+    },
+    {
+      "source_id": "087",
+      "variant": "crop10",
+      "sample_id": "087_crop10"
+    },
+    {
+      "source_id": "012",
+      "variant": "rot180",
+      "sample_id": "012_rot180"
+    },
+    {
+      "source_id": "001",
+      "variant": "original",
+      "sample_id": "001_original"
+    },
+    {
+      "source_id": "099",
+      "variant": "original",
+      "sample_id": "099_original"
+    },
+    {
+      "source_id": "072",
+      "variant": "crop01",
+      "sample_id": "072_crop01"
+    },
+    {
+      "source_id": "077",
+      "variant": "crop00",
+      "sample_id": "077_crop00"
+    },
+    {
+      "source_id": "010",
+      "variant": "rot90",
+      "sample_id": "010_rot90"
+    },
+    {
+      "source_id": "080",
+      "variant": "crop01",
+      "sample_id": "080_crop01"
+    },
+    {
+      "source_id": "100",
+      "variant": "crop00",
+      "sample_id": "100_crop00"
+    },
+    {
+      "source_id": "082",
+      "variant": "crop01",
+      "sample_id": "082_crop01"
+    },
+    {
+      "source_id": "051",
+      "variant": "rot90",
+      "sample_id": "051_rot90"
+    },
+    {
+      "source_id": "023",
+      "variant": "flip_v",
+      "sample_id": "023_flip_v"
+    },
+    {
+      "source_id": "068",
+      "variant": "rot180",
+      "sample_id": "068_rot180"
+    },
+    {
+      "source_id": "013",
+      "variant": "rot270",
+      "sample_id": "013_rot270"
+    },
+    {
+      "source_id": "014",
+      "variant": "crop11",
+      "sample_id": "014_crop11"
+    },
+    {
+      "source_id": "024",
+      "variant": "original",
+      "sample_id": "024_original"
+    },
+    {
+      "source_id": "017",
+      "variant": "crop00",
+      "sample_id": "017_crop00"
+    },
+    {
+      "source_id": "093",
+      "variant": "rot270",
+      "sample_id": "093_rot270"
+    },
+    {
+      "source_id": "100",
+      "variant": "rot180",
+      "sample_id": "100_rot180"
+    },
+    {
+      "source_id": "033",
+      "variant": "rot90",
+      "sample_id": "033_rot90"
+    },
+    {
+      "source_id": "059",
+      "variant": "crop11",
+      "sample_id": "059_crop11"
+    },
+    {
+      "source_id": "045",
+      "variant": "crop11",
+      "sample_id": "045_crop11"
+    },
+    {
+      "source_id": "085",
+      "variant": "rot180",
+      "sample_id": "085_rot180"
+    },
+    {
+      "source_id": "078",
+      "variant": "flip_h",
+      "sample_id": "078_flip_h"
+    },
+    {
+      "source_id": "050",
+      "variant": "rot180",
+      "sample_id": "050_rot180"
+    },
+    {
+      "source_id": "059",
+      "variant": "rot90",
+      "sample_id": "059_rot90"
+    },
+    {
+      "source_id": "094",
+      "variant": "crop00",
+      "sample_id": "094_crop00"
+    },
+    {
+      "source_id": "080",
+      "variant": "flip_h",
+      "sample_id": "080_flip_h"
+    },
+    {
+      "source_id": "083",
+      "variant": "crop00",
+      "sample_id": "083_crop00"
+    },
+    {
+      "source_id": "020",
+      "variant": "crop01",
+      "sample_id": "020_crop01"
+    },
+    {
+      "source_id": "097",
+      "variant": "crop00",
+      "sample_id": "097_crop00"
+    },
+    {
+      "source_id": "010",
+      "variant": "flip_v",
+      "sample_id": "010_flip_v"
+    },
+    {
+      "source_id": "085",
+      "variant": "flip_v",
+      "sample_id": "085_flip_v"
+    },
+    {
+      "source_id": "019",
+      "variant": "crop00",
+      "sample_id": "019_crop00"
+    },
+    {
+      "source_id": "079",
+      "variant": "rot180",
+      "sample_id": "079_rot180"
+    },
+    {
+      "source_id": "051",
+      "variant": "flip_h",
+      "sample_id": "051_flip_h"
+    },
+    {
+      "source_id": "089",
+      "variant": "crop01",
+      "sample_id": "089_crop01"
+    },
+    {
+      "source_id": "042",
+      "variant": "crop10",
+      "sample_id": "042_crop10"
+    },
+    {
+      "source_id": "054",
+      "variant": "flip_v",
+      "sample_id": "054_flip_v"
+    },
+    {
+      "source_id": "052",
+      "variant": "rot270",
+      "sample_id": "052_rot270"
+    },
+    {
+      "source_id": "061",
+      "variant": "crop10",
+      "sample_id": "061_crop10"
+    },
+    {
+      "source_id": "082",
+      "variant": "crop10",
+      "sample_id": "082_crop10"
+    },
+    {
+      "source_id": "094",
+      "variant": "rot90",
+      "sample_id": "094_rot90"
+    },
+    {
+      "source_id": "095",
+      "variant": "flip_v",
+      "sample_id": "095_flip_v"
+    },
+    {
+      "source_id": "085",
+      "variant": "original",
+      "sample_id": "085_original"
+    },
+    {
+      "source_id": "003",
+      "variant": "rot270",
+      "sample_id": "003_rot270"
+    },
+    {
+      "source_id": "033",
+      "variant": "crop00",
+      "sample_id": "033_crop00"
+    },
+    {
+      "source_id": "099",
+      "variant": "rot90",
+      "sample_id": "099_rot90"
+    },
+    {
+      "source_id": "066",
+      "variant": "flip_h",
+      "sample_id": "066_flip_h"
+    },
+    {
+      "source_id": "065",
+      "variant": "flip_h",
+      "sample_id": "065_flip_h"
+    },
+    {
+      "source_id": "037",
+      "variant": "crop01",
+      "sample_id": "037_crop01"
+    },
+    {
+      "source_id": "042",
+      "variant": "flip_h",
+      "sample_id": "042_flip_h"
+    },
+    {
+      "source_id": "043",
+      "variant": "rot90",
+      "sample_id": "043_rot90"
+    },
+    {
+      "source_id": "059",
+      "variant": "crop10",
+      "sample_id": "059_crop10"
+    },
+    {
+      "source_id": "092",
+      "variant": "crop00",
+      "sample_id": "092_crop00"
+    },
+    {
+      "source_id": "005",
+      "variant": "flip_h",
+      "sample_id": "005_flip_h"
+    },
+    {
+      "source_id": "087",
+      "variant": "original",
+      "sample_id": "087_original"
+    },
+    {
+      "source_id": "011",
+      "variant": "rot270",
+      "sample_id": "011_rot270"
+    },
+    {
+      "source_id": "020",
+      "variant": "crop10",
+      "sample_id": "020_crop10"
+    },
+    {
+      "source_id": "012",
+      "variant": "rot270",
+      "sample_id": "012_rot270"
+    },
+    {
+      "source_id": "008",
+      "variant": "crop11",
+      "sample_id": "008_crop11"
+    },
+    {
+      "source_id": "081",
+      "variant": "flip_h",
+      "sample_id": "081_flip_h"
+    },
+    {
+      "source_id": "007",
+      "variant": "rot180",
+      "sample_id": "007_rot180"
+    },
+    {
+      "source_id": "078",
+      "variant": "crop10",
+      "sample_id": "078_crop10"
+    },
+    {
+      "source_id": "054",
+      "variant": "rot270",
+      "sample_id": "054_rot270"
+    },
+    {
+      "source_id": "044",
+      "variant": "flip_v",
+      "sample_id": "044_flip_v"
+    },
+    {
+      "source_id": "030",
+      "variant": "rot180",
+      "sample_id": "030_rot180"
+    },
+    {
+      "source_id": "031",
+      "variant": "flip_v",
+      "sample_id": "031_flip_v"
+    },
+    {
+      "source_id": "003",
+      "variant": "original",
+      "sample_id": "003_original"
+    },
+    {
+      "source_id": "036",
+      "variant": "crop10",
+      "sample_id": "036_crop10"
+    },
+    {
+      "source_id": "019",
+      "variant": "flip_h",
+      "sample_id": "019_flip_h"
+    },
+    {
+      "source_id": "089",
+      "variant": "crop11",
+      "sample_id": "089_crop11"
+    },
+    {
+      "source_id": "089",
+      "variant": "original",
+      "sample_id": "089_original"
+    },
+    {
+      "source_id": "092",
+      "variant": "flip_v",
+      "sample_id": "092_flip_v"
+    },
+    {
+      "source_id": "065",
+      "variant": "crop00",
+      "sample_id": "065_crop00"
+    },
+    {
+      "source_id": "033",
+      "variant": "crop11",
+      "sample_id": "033_crop11"
+    },
+    {
+      "source_id": "077",
+      "variant": "rot180",
+      "sample_id": "077_rot180"
+    },
+    {
+      "source_id": "027",
+      "variant": "flip_v",
+      "sample_id": "027_flip_v"
+    },
+    {
+      "source_id": "048",
+      "variant": "flip_h",
+      "sample_id": "048_flip_h"
+    },
+    {
+      "source_id": "098",
+      "variant": "rot270",
+      "sample_id": "098_rot270"
+    },
+    {
+      "source_id": "004",
+      "variant": "crop00",
+      "sample_id": "004_crop00"
+    },
+    {
+      "source_id": "008",
+      "variant": "flip_h",
+      "sample_id": "008_flip_h"
+    },
+    {
+      "source_id": "014",
+      "variant": "original",
+      "sample_id": "014_original"
+    },
+    {
+      "source_id": "016",
+      "variant": "crop01",
+      "sample_id": "016_crop01"
+    },
+    {
+      "source_id": "008",
+      "variant": "rot90",
+      "sample_id": "008_rot90"
+    },
+    {
+      "source_id": "049",
+      "variant": "crop10",
+      "sample_id": "049_crop10"
+    },
+    {
+      "source_id": "091",
+      "variant": "crop10",
+      "sample_id": "091_crop10"
+    },
+    {
+      "source_id": "070",
+      "variant": "original",
+      "sample_id": "070_original"
+    },
+    {
+      "source_id": "096",
+      "variant": "rot270",
+      "sample_id": "096_rot270"
+    },
+    {
+      "source_id": "008",
+      "variant": "crop10",
+      "sample_id": "008_crop10"
+    },
+    {
+      "source_id": "089",
+      "variant": "crop00",
+      "sample_id": "089_crop00"
+    },
+    {
+      "source_id": "100",
+      "variant": "crop01",
+      "sample_id": "100_crop01"
+    },
+    {
+      "source_id": "004",
+      "variant": "rot180",
+      "sample_id": "004_rot180"
+    },
+    {
+      "source_id": "048",
+      "variant": "rot90",
+      "sample_id": "048_rot90"
+    },
+    {
+      "source_id": "100",
+      "variant": "rot270",
+      "sample_id": "100_rot270"
+    },
+    {
+      "source_id": "039",
+      "variant": "flip_h",
+      "sample_id": "039_flip_h"
+    },
+    {
+      "source_id": "039",
+      "variant": "original",
+      "sample_id": "039_original"
+    },
+    {
+      "source_id": "012",
+      "variant": "flip_h",
+      "sample_id": "012_flip_h"
+    },
+    {
+      "source_id": "078",
+      "variant": "rot270",
+      "sample_id": "078_rot270"
+    },
+    {
+      "source_id": "024",
+      "variant": "crop00",
+      "sample_id": "024_crop00"
+    },
+    {
+      "source_id": "082",
+      "variant": "rot90",
+      "sample_id": "082_rot90"
+    },
+    {
+      "source_id": "062",
+      "variant": "rot180",
+      "sample_id": "062_rot180"
+    },
+    {
+      "source_id": "029",
+      "variant": "crop00",
+      "sample_id": "029_crop00"
+    },
+    {
+      "source_id": "084",
+      "variant": "original",
+      "sample_id": "084_original"
+    },
+    {
+      "source_id": "038",
+      "variant": "rot270",
+      "sample_id": "038_rot270"
+    },
+    {
+      "source_id": "059",
+      "variant": "crop00",
+      "sample_id": "059_crop00"
+    },
+    {
+      "source_id": "074",
+      "variant": "original",
+      "sample_id": "074_original"
+    },
+    {
+      "source_id": "077",
+      "variant": "original",
+      "sample_id": "077_original"
+    },
+    {
+      "source_id": "028",
+      "variant": "original",
+      "sample_id": "028_original"
+    },
+    {
+      "source_id": "074",
+      "variant": "crop01",
+      "sample_id": "074_crop01"
+    },
+    {
+      "source_id": "061",
+      "variant": "rot270",
+      "sample_id": "061_rot270"
+    },
+    {
+      "source_id": "035",
+      "variant": "flip_v",
+      "sample_id": "035_flip_v"
+    },
+    {
+      "source_id": "046",
+      "variant": "rot90",
+      "sample_id": "046_rot90"
+    },
+    {
+      "source_id": "002",
+      "variant": "rot90",
+      "sample_id": "002_rot90"
+    },
+    {
+      "source_id": "011",
+      "variant": "crop11",
+      "sample_id": "011_crop11"
+    },
+    {
+      "source_id": "030",
+      "variant": "flip_v",
+      "sample_id": "030_flip_v"
+    },
+    {
+      "source_id": "082",
+      "variant": "flip_v",
+      "sample_id": "082_flip_v"
+    },
+    {
+      "source_id": "088",
+      "variant": "original",
+      "sample_id": "088_original"
+    },
+    {
+      "source_id": "076",
+      "variant": "rot270",
+      "sample_id": "076_rot270"
+    },
+    {
+      "source_id": "008",
+      "variant": "original",
+      "sample_id": "008_original"
+    },
+    {
+      "source_id": "056",
+      "variant": "flip_v",
+      "sample_id": "056_flip_v"
+    },
+    {
+      "source_id": "041",
+      "variant": "rot180",
+      "sample_id": "041_rot180"
+    },
+    {
+      "source_id": "093",
+      "variant": "crop11",
+      "sample_id": "093_crop11"
+    },
+    {
+      "source_id": "015",
+      "variant": "crop01",
+      "sample_id": "015_crop01"
+    },
+    {
+      "source_id": "062",
+      "variant": "flip_h",
+      "sample_id": "062_flip_h"
+    },
+    {
+      "source_id": "089",
+      "variant": "rot270",
+      "sample_id": "089_rot270"
+    },
+    {
+      "source_id": "042",
+      "variant": "rot180",
+      "sample_id": "042_rot180"
+    },
+    {
+      "source_id": "066",
+      "variant": "crop11",
+      "sample_id": "066_crop11"
+    },
+    {
+      "source_id": "098",
+      "variant": "flip_h",
+      "sample_id": "098_flip_h"
+    },
+    {
+      "source_id": "061",
+      "variant": "original",
+      "sample_id": "061_original"
+    },
+    {
+      "source_id": "087",
+      "variant": "crop11",
+      "sample_id": "087_crop11"
+    },
+    {
+      "source_id": "022",
+      "variant": "rot270",
+      "sample_id": "022_rot270"
+    },
+    {
+      "source_id": "017",
+      "variant": "crop01",
+      "sample_id": "017_crop01"
+    },
+    {
+      "source_id": "028",
+      "variant": "crop10",
+      "sample_id": "028_crop10"
+    },
+    {
+      "source_id": "072",
+      "variant": "rot90",
+      "sample_id": "072_rot90"
+    },
+    {
+      "source_id": "052",
+      "variant": "crop00",
+      "sample_id": "052_crop00"
+    },
+    {
+      "source_id": "067",
+      "variant": "original",
+      "sample_id": "067_original"
+    },
+    {
+      "source_id": "008",
+      "variant": "flip_v",
+      "sample_id": "008_flip_v"
+    },
+    {
+      "source_id": "029",
+      "variant": "crop01",
+      "sample_id": "029_crop01"
+    },
+    {
+      "source_id": "096",
+      "variant": "original",
+      "sample_id": "096_original"
+    },
+    {
+      "source_id": "019",
+      "variant": "original",
+      "sample_id": "019_original"
+    },
+    {
+      "source_id": "037",
+      "variant": "flip_v",
+      "sample_id": "037_flip_v"
+    },
+    {
+      "source_id": "072",
+      "variant": "rot270",
+      "sample_id": "072_rot270"
+    },
+    {
+      "source_id": "043",
+      "variant": "rot180",
+      "sample_id": "043_rot180"
+    },
+    {
+      "source_id": "088",
+      "variant": "crop00",
+      "sample_id": "088_crop00"
+    },
+    {
+      "source_id": "021",
+      "variant": "flip_h",
+      "sample_id": "021_flip_h"
+    },
+    {
+      "source_id": "007",
+      "variant": "crop00",
+      "sample_id": "007_crop00"
+    },
+    {
+      "source_id": "007",
+      "variant": "rot270",
+      "sample_id": "007_rot270"
+    },
+    {
+      "source_id": "091",
+      "variant": "original",
+      "sample_id": "091_original"
+    },
+    {
+      "source_id": "013",
+      "variant": "rot90",
+      "sample_id": "013_rot90"
+    },
+    {
+      "source_id": "011",
+      "variant": "crop10",
+      "sample_id": "011_crop10"
+    },
+    {
+      "source_id": "049",
+      "variant": "rot270",
+      "sample_id": "049_rot270"
+    },
+    {
+      "source_id": "024",
+      "variant": "crop11",
+      "sample_id": "024_crop11"
+    },
+    {
+      "source_id": "067",
+      "variant": "crop11",
+      "sample_id": "067_crop11"
+    },
+    {
+      "source_id": "095",
+      "variant": "original",
+      "sample_id": "095_original"
+    },
+    {
+      "source_id": "053",
+      "variant": "flip_v",
+      "sample_id": "053_flip_v"
+    },
+    {
+      "source_id": "082",
+      "variant": "flip_h",
+      "sample_id": "082_flip_h"
+    },
+    {
+      "source_id": "056",
+      "variant": "crop01",
+      "sample_id": "056_crop01"
+    },
+    {
+      "source_id": "023",
+      "variant": "flip_h",
+      "sample_id": "023_flip_h"
+    },
+    {
+      "source_id": "097",
+      "variant": "crop11",
+      "sample_id": "097_crop11"
+    },
+    {
+      "source_id": "046",
+      "variant": "crop10",
+      "sample_id": "046_crop10"
+    },
+    {
+      "source_id": "013",
+      "variant": "crop10",
+      "sample_id": "013_crop10"
+    },
+    {
+      "source_id": "097",
+      "variant": "flip_v",
+      "sample_id": "097_flip_v"
+    },
+    {
+      "source_id": "029",
+      "variant": "flip_h",
+      "sample_id": "029_flip_h"
+    },
+    {
+      "source_id": "034",
+      "variant": "flip_v",
+      "sample_id": "034_flip_v"
+    },
+    {
+      "source_id": "013",
+      "variant": "flip_h",
+      "sample_id": "013_flip_h"
+    },
+    {
+      "source_id": "059",
+      "variant": "crop01",
+      "sample_id": "059_crop01"
+    },
+    {
+      "source_id": "058",
+      "variant": "original",
+      "sample_id": "058_original"
+    },
+    {
+      "source_id": "001",
+      "variant": "crop01",
+      "sample_id": "001_crop01"
+    },
+    {
+      "source_id": "049",
+      "variant": "flip_h",
+      "sample_id": "049_flip_h"
+    },
+    {
+      "source_id": "013",
+      "variant": "flip_v",
+      "sample_id": "013_flip_v"
+    },
+    {
+      "source_id": "084",
+      "variant": "rot90",
+      "sample_id": "084_rot90"
+    },
+    {
+      "source_id": "049",
+      "variant": "crop11",
+      "sample_id": "049_crop11"
+    },
+    {
+      "source_id": "057",
+      "variant": "flip_h",
+      "sample_id": "057_flip_h"
+    },
+    {
+      "source_id": "076",
+      "variant": "original",
+      "sample_id": "076_original"
+    },
+    {
+      "source_id": "005",
+      "variant": "crop00",
+      "sample_id": "005_crop00"
+    },
+    {
+      "source_id": "099",
+      "variant": "rot270",
+      "sample_id": "099_rot270"
+    },
+    {
+      "source_id": "067",
+      "variant": "rot270",
+      "sample_id": "067_rot270"
+    },
+    {
+      "source_id": "037",
+      "variant": "rot90",
+      "sample_id": "037_rot90"
+    },
+    {
+      "source_id": "095",
+      "variant": "crop11",
+      "sample_id": "095_crop11"
+    },
+    {
+      "source_id": "005",
+      "variant": "crop11",
+      "sample_id": "005_crop11"
+    },
+    {
+      "source_id": "052",
+      "variant": "crop11",
+      "sample_id": "052_crop11"
+    },
+    {
+      "source_id": "058",
+      "variant": "flip_h",
+      "sample_id": "058_flip_h"
+    },
+    {
+      "source_id": "044",
+      "variant": "rot270",
+      "sample_id": "044_rot270"
+    },
+    {
+      "source_id": "024",
+      "variant": "crop01",
+      "sample_id": "024_crop01"
+    },
+    {
+      "source_id": "059",
+      "variant": "flip_v",
+      "sample_id": "059_flip_v"
+    },
+    {
+      "source_id": "002",
+      "variant": "rot180",
+      "sample_id": "002_rot180"
+    },
+    {
+      "source_id": "017",
+      "variant": "flip_h",
+      "sample_id": "017_flip_h"
+    },
+    {
+      "source_id": "020",
+      "variant": "flip_v",
+      "sample_id": "020_flip_v"
+    },
+    {
+      "source_id": "016",
+      "variant": "rot180",
+      "sample_id": "016_rot180"
+    },
+    {
+      "source_id": "045",
+      "variant": "rot90",
+      "sample_id": "045_rot90"
+    },
+    {
+      "source_id": "046",
+      "variant": "flip_h",
+      "sample_id": "046_flip_h"
+    },
+    {
+      "source_id": "053",
+      "variant": "crop00",
+      "sample_id": "053_crop00"
+    },
+    {
+      "source_id": "097",
+      "variant": "rot90",
+      "sample_id": "097_rot90"
+    },
+    {
+      "source_id": "079",
+      "variant": "original",
+      "sample_id": "079_original"
+    },
+    {
+      "source_id": "046",
+      "variant": "rot270",
+      "sample_id": "046_rot270"
+    },
+    {
+      "source_id": "055",
+      "variant": "rot180",
+      "sample_id": "055_rot180"
+    },
+    {
+      "source_id": "090",
+      "variant": "rot180",
+      "sample_id": "090_rot180"
+    },
+    {
+      "source_id": "050",
+      "variant": "flip_h",
+      "sample_id": "050_flip_h"
+    },
+    {
+      "source_id": "021",
+      "variant": "crop11",
+      "sample_id": "021_crop11"
+    },
+    {
+      "source_id": "054",
+      "variant": "crop01",
+      "sample_id": "054_crop01"
+    },
+    {
+      "source_id": "010",
+      "variant": "crop00",
+      "sample_id": "010_crop00"
+    },
+    {
+      "source_id": "035",
+      "variant": "crop10",
+      "sample_id": "035_crop10"
+    },
+    {
+      "source_id": "065",
+      "variant": "crop01",
+      "sample_id": "065_crop01"
+    },
+    {
+      "source_id": "044",
+      "variant": "rot180",
+      "sample_id": "044_rot180"
+    },
+    {
+      "source_id": "097",
+      "variant": "crop10",
+      "sample_id": "097_crop10"
+    },
+    {
+      "source_id": "048",
+      "variant": "crop10",
+      "sample_id": "048_crop10"
+    },
+    {
+      "source_id": "094",
+      "variant": "flip_h",
+      "sample_id": "094_flip_h"
+    },
+    {
+      "source_id": "010",
+      "variant": "rot180",
+      "sample_id": "010_rot180"
+    },
+    {
+      "source_id": "067",
+      "variant": "rot90",
+      "sample_id": "067_rot90"
+    },
+    {
+      "source_id": "017",
+      "variant": "flip_v",
+      "sample_id": "017_flip_v"
+    },
+    {
+      "source_id": "036",
+      "variant": "crop11",
+      "sample_id": "036_crop11"
+    },
+    {
+      "source_id": "053",
+      "variant": "flip_h",
+      "sample_id": "053_flip_h"
+    },
+    {
+      "source_id": "033",
+      "variant": "crop01",
+      "sample_id": "033_crop01"
+    },
+    {
+      "source_id": "039",
+      "variant": "crop00",
+      "sample_id": "039_crop00"
+    },
+    {
+      "source_id": "027",
+      "variant": "original",
+      "sample_id": "027_original"
+    },
+    {
+      "source_id": "070",
+      "variant": "rot90",
+      "sample_id": "070_rot90"
+    },
+    {
+      "source_id": "073",
+      "variant": "flip_h",
+      "sample_id": "073_flip_h"
+    },
+    {
+      "source_id": "039",
+      "variant": "rot270",
+      "sample_id": "039_rot270"
+    },
+    {
+      "source_id": "096",
+      "variant": "flip_v",
+      "sample_id": "096_flip_v"
+    },
+    {
+      "source_id": "094",
+      "variant": "crop10",
+      "sample_id": "094_crop10"
+    },
+    {
+      "source_id": "084",
+      "variant": "flip_h",
+      "sample_id": "084_flip_h"
+    },
+    {
+      "source_id": "050",
+      "variant": "crop11",
+      "sample_id": "050_crop11"
+    },
+    {
+      "source_id": "019",
+      "variant": "rot270",
+      "sample_id": "019_rot270"
+    },
+    {
+      "source_id": "043",
+      "variant": "crop10",
+      "sample_id": "043_crop10"
+    },
+    {
+      "source_id": "049",
+      "variant": "flip_v",
+      "sample_id": "049_flip_v"
+    },
+    {
+      "source_id": "080",
+      "variant": "original",
+      "sample_id": "080_original"
+    },
+    {
+      "source_id": "002",
+      "variant": "original",
+      "sample_id": "002_original"
+    },
+    {
+      "source_id": "088",
+      "variant": "crop10",
+      "sample_id": "088_crop10"
+    },
+    {
+      "source_id": "085",
+      "variant": "crop00",
+      "sample_id": "085_crop00"
+    },
+    {
+      "source_id": "080",
+      "variant": "rot270",
+      "sample_id": "080_rot270"
+    },
+    {
+      "source_id": "086",
+      "variant": "crop11",
+      "sample_id": "086_crop11"
+    },
+    {
+      "source_id": "038",
+      "variant": "crop10",
+      "sample_id": "038_crop10"
+    },
+    {
+      "source_id": "073",
+      "variant": "rot90",
+      "sample_id": "073_rot90"
+    },
+    {
+      "source_id": "061",
+      "variant": "flip_v",
+      "sample_id": "061_flip_v"
+    },
+    {
+      "source_id": "076",
+      "variant": "crop11",
+      "sample_id": "076_crop11"
+    },
+    {
+      "source_id": "055",
+      "variant": "flip_h",
+      "sample_id": "055_flip_h"
+    },
+    {
+      "source_id": "056",
+      "variant": "rot180",
+      "sample_id": "056_rot180"
+    },
+    {
+      "source_id": "011",
+      "variant": "rot90",
+      "sample_id": "011_rot90"
+    },
+    {
+      "source_id": "019",
+      "variant": "flip_v",
+      "sample_id": "019_flip_v"
+    },
+    {
+      "source_id": "018",
+      "variant": "crop11",
+      "sample_id": "018_crop11"
+    },
+    {
+      "source_id": "076",
+      "variant": "flip_h",
+      "sample_id": "076_flip_h"
+    },
+    {
+      "source_id": "018",
+      "variant": "rot180",
+      "sample_id": "018_rot180"
+    },
+    {
+      "source_id": "014",
+      "variant": "rot180",
+      "sample_id": "014_rot180"
+    },
+    {
+      "source_id": "014",
+      "variant": "rot270",
+      "sample_id": "014_rot270"
+    },
+    {
+      "source_id": "083",
+      "variant": "crop01",
+      "sample_id": "083_crop01"
+    },
+    {
+      "source_id": "089",
+      "variant": "flip_v",
+      "sample_id": "089_flip_v"
+    },
+    {
+      "source_id": "042",
+      "variant": "crop00",
+      "sample_id": "042_crop00"
+    },
+    {
+      "source_id": "098",
+      "variant": "flip_v",
+      "sample_id": "098_flip_v"
+    },
+    {
+      "source_id": "027",
+      "variant": "rot90",
+      "sample_id": "027_rot90"
+    },
+    {
+      "source_id": "042",
+      "variant": "rot90",
+      "sample_id": "042_rot90"
+    },
+    {
+      "source_id": "031",
+      "variant": "crop11",
+      "sample_id": "031_crop11"
+    },
+    {
+      "source_id": "020",
+      "variant": "flip_h",
+      "sample_id": "020_flip_h"
+    },
+    {
+      "source_id": "015",
+      "variant": "rot90",
+      "sample_id": "015_rot90"
+    },
+    {
+      "source_id": "010",
+      "variant": "flip_h",
+      "sample_id": "010_flip_h"
+    },
+    {
+      "source_id": "015",
+      "variant": "flip_v",
+      "sample_id": "015_flip_v"
+    },
+    {
+      "source_id": "031",
+      "variant": "crop00",
+      "sample_id": "031_crop00"
+    },
+    {
+      "source_id": "030",
+      "variant": "rot90",
+      "sample_id": "030_rot90"
+    },
+    {
+      "source_id": "070",
+      "variant": "crop11",
+      "sample_id": "070_crop11"
+    },
+    {
+      "source_id": "001",
+      "variant": "crop11",
+      "sample_id": "001_crop11"
+    },
+    {
+      "source_id": "100",
+      "variant": "crop10",
+      "sample_id": "100_crop10"
+    },
+    {
+      "source_id": "008",
+      "variant": "rot270",
+      "sample_id": "008_rot270"
+    },
+    {
+      "source_id": "029",
+      "variant": "rot270",
+      "sample_id": "029_rot270"
+    },
+    {
+      "source_id": "068",
+      "variant": "rot90",
+      "sample_id": "068_rot90"
+    },
+    {
+      "source_id": "073",
+      "variant": "flip_v",
+      "sample_id": "073_flip_v"
+    },
+    {
+      "source_id": "078",
+      "variant": "crop00",
+      "sample_id": "078_crop00"
+    },
+    {
+      "source_id": "029",
+      "variant": "rot90",
+      "sample_id": "029_rot90"
+    },
+    {
+      "source_id": "053",
+      "variant": "rot270",
+      "sample_id": "053_rot270"
+    },
+    {
+      "source_id": "046",
+      "variant": "original",
+      "sample_id": "046_original"
+    },
+    {
+      "source_id": "035",
+      "variant": "flip_h",
+      "sample_id": "035_flip_h"
+    },
+    {
+      "source_id": "070",
+      "variant": "rot270",
+      "sample_id": "070_rot270"
+    },
+    {
+      "source_id": "081",
+      "variant": "rot90",
+      "sample_id": "081_rot90"
+    },
+    {
+      "source_id": "091",
+      "variant": "crop11",
+      "sample_id": "091_crop11"
+    },
+    {
+      "source_id": "062",
+      "variant": "crop11",
+      "sample_id": "062_crop11"
+    },
+    {
+      "source_id": "027",
+      "variant": "crop00",
+      "sample_id": "027_crop00"
+    },
+    {
+      "source_id": "056",
+      "variant": "rot90",
+      "sample_id": "056_rot90"
+    },
+    {
+      "source_id": "049",
+      "variant": "crop01",
+      "sample_id": "049_crop01"
+    },
+    {
+      "source_id": "076",
+      "variant": "flip_v",
+      "sample_id": "076_flip_v"
+    },
+    {
+      "source_id": "094",
+      "variant": "crop01",
+      "sample_id": "094_crop01"
+    },
+    {
+      "source_id": "031",
+      "variant": "flip_h",
+      "sample_id": "031_flip_h"
+    },
+    {
+      "source_id": "038",
+      "variant": "crop00",
+      "sample_id": "038_crop00"
+    },
+    {
+      "source_id": "090",
+      "variant": "original",
+      "sample_id": "090_original"
+    },
+    {
+      "source_id": "016",
+      "variant": "crop00",
+      "sample_id": "016_crop00"
+    },
+    {
+      "source_id": "043",
+      "variant": "crop01",
+      "sample_id": "043_crop01"
+    },
+    {
+      "source_id": "098",
+      "variant": "original",
+      "sample_id": "098_original"
+    },
+    {
+      "source_id": "030",
+      "variant": "rot270",
+      "sample_id": "030_rot270"
+    },
+    {
+      "source_id": "093",
+      "variant": "rot90",
+      "sample_id": "093_rot90"
+    },
+    {
+      "source_id": "050",
+      "variant": "crop01",
+      "sample_id": "050_crop01"
+    },
+    {
+      "source_id": "012",
+      "variant": "crop11",
+      "sample_id": "012_crop11"
+    },
+    {
+      "source_id": "003",
+      "variant": "flip_v",
+      "sample_id": "003_flip_v"
+    },
+    {
+      "source_id": "044",
+      "variant": "flip_h",
+      "sample_id": "044_flip_h"
+    },
+    {
+      "source_id": "057",
+      "variant": "rot180",
+      "sample_id": "057_rot180"
+    },
+    {
+      "source_id": "079",
+      "variant": "flip_h",
+      "sample_id": "079_flip_h"
+    },
+    {
+      "source_id": "088",
+      "variant": "crop01",
+      "sample_id": "088_crop01"
+    },
+    {
+      "source_id": "090",
+      "variant": "flip_h",
+      "sample_id": "090_flip_h"
+    },
+    {
+      "source_id": "030",
+      "variant": "crop10",
+      "sample_id": "030_crop10"
+    },
+    {
+      "source_id": "036",
+      "variant": "rot270",
+      "sample_id": "036_rot270"
+    },
+    {
+      "source_id": "015",
+      "variant": "crop10",
+      "sample_id": "015_crop10"
+    },
+    {
+      "source_id": "090",
+      "variant": "crop11",
+      "sample_id": "090_crop11"
+    },
+    {
+      "source_id": "041",
+      "variant": "original",
+      "sample_id": "041_original"
+    },
+    {
+      "source_id": "059",
+      "variant": "original",
+      "sample_id": "059_original"
+    },
+    {
+      "source_id": "074",
+      "variant": "rot270",
+      "sample_id": "074_rot270"
+    },
+    {
+      "source_id": "043",
+      "variant": "rot270",
+      "sample_id": "043_rot270"
+    },
+    {
+      "source_id": "032",
+      "variant": "crop00",
+      "sample_id": "032_crop00"
+    },
+    {
+      "source_id": "010",
+      "variant": "rot270",
+      "sample_id": "010_rot270"
+    },
+    {
+      "source_id": "024",
+      "variant": "rot90",
+      "sample_id": "024_rot90"
+    },
+    {
+      "source_id": "029",
+      "variant": "rot180",
+      "sample_id": "029_rot180"
+    },
+    {
+      "source_id": "027",
+      "variant": "rot180",
+      "sample_id": "027_rot180"
+    },
+    {
+      "source_id": "082",
+      "variant": "crop11",
+      "sample_id": "082_crop11"
+    },
+    {
+      "source_id": "035",
+      "variant": "crop01",
+      "sample_id": "035_crop01"
+    },
+    {
+      "source_id": "055",
+      "variant": "rot90",
+      "sample_id": "055_rot90"
+    },
+    {
+      "source_id": "068",
+      "variant": "original",
+      "sample_id": "068_original"
+    },
+    {
+      "source_id": "065",
+      "variant": "crop10",
+      "sample_id": "065_crop10"
+    },
+    {
+      "source_id": "065",
+      "variant": "rot270",
+      "sample_id": "065_rot270"
+    },
+    {
+      "source_id": "084",
+      "variant": "rot270",
+      "sample_id": "084_rot270"
+    },
+    {
+      "source_id": "029",
+      "variant": "flip_v",
+      "sample_id": "029_flip_v"
+    },
+    {
+      "source_id": "042",
+      "variant": "rot270",
+      "sample_id": "042_rot270"
+    },
+    {
+      "source_id": "029",
+      "variant": "crop11",
+      "sample_id": "029_crop11"
+    },
+    {
+      "source_id": "086",
+      "variant": "crop00",
+      "sample_id": "086_crop00"
+    },
+    {
+      "source_id": "095",
+      "variant": "rot180",
+      "sample_id": "095_rot180"
+    },
+    {
+      "source_id": "070",
+      "variant": "crop01",
+      "sample_id": "070_crop01"
+    },
+    {
+      "source_id": "058",
+      "variant": "rot180",
+      "sample_id": "058_rot180"
+    },
+    {
+      "source_id": "018",
+      "variant": "crop00",
+      "sample_id": "018_crop00"
+    },
+    {
+      "source_id": "032",
+      "variant": "crop11",
+      "sample_id": "032_crop11"
+    },
+    {
+      "source_id": "034",
+      "variant": "rot90",
+      "sample_id": "034_rot90"
+    },
+    {
+      "source_id": "046",
+      "variant": "rot180",
+      "sample_id": "046_rot180"
+    },
+    {
+      "source_id": "096",
+      "variant": "crop10",
+      "sample_id": "096_crop10"
+    },
+    {
+      "source_id": "062",
+      "variant": "rot90",
+      "sample_id": "062_rot90"
+    },
+    {
+      "source_id": "098",
+      "variant": "rot180",
+      "sample_id": "098_rot180"
+    },
+    {
+      "source_id": "080",
+      "variant": "crop11",
+      "sample_id": "080_crop11"
+    },
+    {
+      "source_id": "045",
+      "variant": "rot270",
+      "sample_id": "045_rot270"
+    },
+    {
+      "source_id": "017",
+      "variant": "rot270",
+      "sample_id": "017_rot270"
+    },
+    {
+      "source_id": "004",
+      "variant": "crop11",
+      "sample_id": "004_crop11"
+    },
+    {
+      "source_id": "020",
+      "variant": "rot270",
+      "sample_id": "020_rot270"
+    },
+    {
+      "source_id": "043",
+      "variant": "flip_v",
+      "sample_id": "043_flip_v"
+    },
+    {
+      "source_id": "012",
+      "variant": "original",
+      "sample_id": "012_original"
+    },
+    {
+      "source_id": "094",
+      "variant": "rot270",
+      "sample_id": "094_rot270"
+    },
+    {
+      "source_id": "059",
+      "variant": "rot270",
+      "sample_id": "059_rot270"
+    },
+    {
+      "source_id": "078",
+      "variant": "crop11",
+      "sample_id": "078_crop11"
+    },
+    {
+      "source_id": "053",
+      "variant": "crop10",
+      "sample_id": "053_crop10"
+    },
+    {
+      "source_id": "081",
+      "variant": "crop11",
+      "sample_id": "081_crop11"
+    },
+    {
+      "source_id": "058",
+      "variant": "crop10",
+      "sample_id": "058_crop10"
+    },
+    {
+      "source_id": "079",
+      "variant": "flip_v",
+      "sample_id": "079_flip_v"
+    },
+    {
+      "source_id": "085",
+      "variant": "crop11",
+      "sample_id": "085_crop11"
+    },
+    {
+      "source_id": "096",
+      "variant": "flip_h",
+      "sample_id": "096_flip_h"
+    },
+    {
+      "source_id": "051",
+      "variant": "original",
+      "sample_id": "051_original"
+    },
+    {
+      "source_id": "012",
+      "variant": "crop10",
+      "sample_id": "012_crop10"
+    },
+    {
+      "source_id": "036",
+      "variant": "original",
+      "sample_id": "036_original"
+    },
+    {
+      "source_id": "015",
+      "variant": "original",
+      "sample_id": "015_original"
+    },
+    {
+      "source_id": "055",
+      "variant": "crop10",
+      "sample_id": "055_crop10"
+    },
+    {
+      "source_id": "076",
+      "variant": "crop00",
+      "sample_id": "076_crop00"
+    },
+    {
+      "source_id": "083",
+      "variant": "flip_v",
+      "sample_id": "083_flip_v"
+    },
+    {
+      "source_id": "077",
+      "variant": "crop10",
+      "sample_id": "077_crop10"
+    },
+    {
+      "source_id": "094",
+      "variant": "original",
+      "sample_id": "094_original"
+    },
+    {
+      "source_id": "042",
+      "variant": "crop11",
+      "sample_id": "042_crop11"
+    },
+    {
+      "source_id": "011",
+      "variant": "flip_h",
+      "sample_id": "011_flip_h"
+    },
+    {
+      "source_id": "057",
+      "variant": "crop01",
+      "sample_id": "057_crop01"
+    },
+    {
+      "source_id": "033",
+      "variant": "rot180",
+      "sample_id": "033_rot180"
+    },
+    {
+      "source_id": "002",
+      "variant": "crop10",
+      "sample_id": "002_crop10"
+    },
+    {
+      "source_id": "020",
+      "variant": "rot90",
+      "sample_id": "020_rot90"
+    },
+    {
+      "source_id": "046",
+      "variant": "crop01",
+      "sample_id": "046_crop01"
+    },
+    {
+      "source_id": "083",
+      "variant": "rot180",
+      "sample_id": "083_rot180"
+    },
+    {
+      "source_id": "010",
+      "variant": "original",
+      "sample_id": "010_original"
+    },
+    {
+      "source_id": "085",
+      "variant": "flip_h",
+      "sample_id": "085_flip_h"
+    },
+    {
+      "source_id": "065",
+      "variant": "rot180",
+      "sample_id": "065_rot180"
+    },
+    {
+      "source_id": "044",
+      "variant": "crop11",
+      "sample_id": "044_crop11"
+    },
+    {
+      "source_id": "013",
+      "variant": "rot180",
+      "sample_id": "013_rot180"
+    },
+    {
+      "source_id": "086",
+      "variant": "crop10",
+      "sample_id": "086_crop10"
+    },
+    {
+      "source_id": "025",
+      "variant": "crop11",
+      "sample_id": "025_crop11"
+    },
+    {
+      "source_id": "095",
+      "variant": "rot270",
+      "sample_id": "095_rot270"
+    },
+    {
+      "source_id": "058",
+      "variant": "crop00",
+      "sample_id": "058_crop00"
+    },
+    {
+      "source_id": "043",
+      "variant": "crop11",
+      "sample_id": "043_crop11"
+    },
+    {
+      "source_id": "080",
+      "variant": "flip_v",
+      "sample_id": "080_flip_v"
+    },
+    {
+      "source_id": "011",
+      "variant": "rot180",
+      "sample_id": "011_rot180"
+    },
+    {
+      "source_id": "092",
+      "variant": "original",
+      "sample_id": "092_original"
+    },
+    {
+      "source_id": "055",
+      "variant": "original",
+      "sample_id": "055_original"
+    },
+    {
+      "source_id": "046",
+      "variant": "flip_v",
+      "sample_id": "046_flip_v"
+    },
+    {
+      "source_id": "057",
+      "variant": "crop00",
+      "sample_id": "057_crop00"
+    },
+    {
+      "source_id": "067",
+      "variant": "crop01",
+      "sample_id": "067_crop01"
+    },
+    {
+      "source_id": "073",
+      "variant": "original",
+      "sample_id": "073_original"
+    },
+    {
+      "source_id": "014",
+      "variant": "crop00",
+      "sample_id": "014_crop00"
+    },
+    {
+      "source_id": "049",
+      "variant": "rot90",
+      "sample_id": "049_rot90"
+    },
+    {
+      "source_id": "086",
+      "variant": "crop01",
+      "sample_id": "086_crop01"
+    },
+    {
+      "source_id": "008",
+      "variant": "crop00",
+      "sample_id": "008_crop00"
+    },
+    {
+      "source_id": "070",
+      "variant": "flip_h",
+      "sample_id": "070_flip_h"
+    },
+    {
+      "source_id": "079",
+      "variant": "crop11",
+      "sample_id": "079_crop11"
+    },
+    {
+      "source_id": "012",
+      "variant": "crop00",
+      "sample_id": "012_crop00"
+    },
+    {
+      "source_id": "021",
+      "variant": "rot180",
+      "sample_id": "021_rot180"
+    },
+    {
+      "source_id": "093",
+      "variant": "original",
+      "sample_id": "093_original"
+    },
+    {
+      "source_id": "047",
+      "variant": "crop00",
+      "sample_id": "047_crop00"
+    },
+    {
+      "source_id": "045",
+      "variant": "rot180",
+      "sample_id": "045_rot180"
+    },
+    {
+      "source_id": "058",
+      "variant": "rot270",
+      "sample_id": "058_rot270"
+    },
+    {
+      "source_id": "082",
+      "variant": "original",
+      "sample_id": "082_original"
+    },
+    {
+      "source_id": "073",
+      "variant": "crop00",
+      "sample_id": "073_crop00"
+    },
+    {
+      "source_id": "023",
+      "variant": "original",
+      "sample_id": "023_original"
+    },
+    {
+      "source_id": "051",
+      "variant": "rot270",
+      "sample_id": "051_rot270"
+    },
+    {
+      "source_id": "089",
+      "variant": "rot90",
+      "sample_id": "089_rot90"
+    },
+    {
+      "source_id": "024",
+      "variant": "crop10",
+      "sample_id": "024_crop10"
+    },
+    {
+      "source_id": "014",
+      "variant": "crop10",
+      "sample_id": "014_crop10"
+    },
+    {
+      "source_id": "045",
+      "variant": "flip_v",
+      "sample_id": "045_flip_v"
+    },
+    {
+      "source_id": "074",
+      "variant": "crop00",
+      "sample_id": "074_crop00"
+    },
+    {
+      "source_id": "032",
+      "variant": "original",
+      "sample_id": "032_original"
+    },
+    {
+      "source_id": "099",
+      "variant": "crop10",
+      "sample_id": "099_crop10"
+    },
+    {
+      "source_id": "061",
+      "variant": "crop11",
+      "sample_id": "061_crop11"
+    },
+    {
+      "source_id": "056",
+      "variant": "flip_h",
+      "sample_id": "056_flip_h"
+    },
+    {
+      "source_id": "042",
+      "variant": "original",
+      "sample_id": "042_original"
+    },
+    {
+      "source_id": "077",
+      "variant": "crop11",
+      "sample_id": "077_crop11"
+    },
+    {
+      "source_id": "092",
+      "variant": "crop01",
+      "sample_id": "092_crop01"
+    },
+    {
+      "source_id": "048",
+      "variant": "original",
+      "sample_id": "048_original"
+    },
+    {
+      "source_id": "044",
+      "variant": "original",
+      "sample_id": "044_original"
+    },
+    {
+      "source_id": "093",
+      "variant": "crop00",
+      "sample_id": "093_crop00"
+    },
+    {
+      "source_id": "076",
+      "variant": "rot180",
+      "sample_id": "076_rot180"
+    },
+    {
+      "source_id": "086",
+      "variant": "rot270",
+      "sample_id": "086_rot270"
+    },
+    {
+      "source_id": "030",
+      "variant": "crop01",
+      "sample_id": "030_crop01"
+    },
+    {
+      "source_id": "016",
+      "variant": "original",
+      "sample_id": "016_original"
+    },
+    {
+      "source_id": "024",
+      "variant": "rot270",
+      "sample_id": "024_rot270"
+    },
+    {
+      "source_id": "072",
+      "variant": "crop10",
+      "sample_id": "072_crop10"
+    },
+    {
+      "source_id": "032",
+      "variant": "flip_h",
+      "sample_id": "032_flip_h"
+    },
+    {
+      "source_id": "073",
+      "variant": "rot180",
+      "sample_id": "073_rot180"
+    },
+    {
+      "source_id": "001",
+      "variant": "crop10",
+      "sample_id": "001_crop10"
+    },
+    {
+      "source_id": "022",
+      "variant": "flip_v",
+      "sample_id": "022_flip_v"
+    },
+    {
+      "source_id": "089",
+      "variant": "crop10",
+      "sample_id": "089_crop10"
+    },
+    {
+      "source_id": "025",
+      "variant": "rot180",
+      "sample_id": "025_rot180"
+    },
+    {
+      "source_id": "047",
+      "variant": "rot270",
+      "sample_id": "047_rot270"
+    },
+    {
+      "source_id": "072",
+      "variant": "rot180",
+      "sample_id": "072_rot180"
+    },
+    {
+      "source_id": "025",
+      "variant": "crop01",
+      "sample_id": "025_crop01"
+    },
+    {
+      "source_id": "030",
+      "variant": "original",
+      "sample_id": "030_original"
+    },
+    {
+      "source_id": "083",
+      "variant": "crop10",
+      "sample_id": "083_crop10"
+    },
+    {
+      "source_id": "014",
+      "variant": "crop01",
+      "sample_id": "014_crop01"
+    },
+    {
+      "source_id": "083",
+      "variant": "crop11",
+      "sample_id": "083_crop11"
+    },
+    {
+      "source_id": "074",
+      "variant": "rot90",
+      "sample_id": "074_rot90"
+    },
+    {
+      "source_id": "022",
+      "variant": "crop00",
+      "sample_id": "022_crop00"
+    },
+    {
+      "source_id": "036",
+      "variant": "rot90",
+      "sample_id": "036_rot90"
+    },
+    {
+      "source_id": "095",
+      "variant": "crop10",
+      "sample_id": "095_crop10"
+    },
+    {
+      "source_id": "054",
+      "variant": "rot90",
+      "sample_id": "054_rot90"
+    },
+    {
+      "source_id": "016",
+      "variant": "rot90",
+      "sample_id": "016_rot90"
+    },
+    {
+      "source_id": "038",
+      "variant": "flip_h",
+      "sample_id": "038_flip_h"
+    },
+    {
+      "source_id": "002",
+      "variant": "crop01",
+      "sample_id": "002_crop01"
+    },
+    {
+      "source_id": "061",
+      "variant": "rot90",
+      "sample_id": "061_rot90"
+    },
+    {
+      "source_id": "062",
+      "variant": "crop10",
+      "sample_id": "062_crop10"
+    },
+    {
+      "source_id": "066",
+      "variant": "rot180",
+      "sample_id": "066_rot180"
+    },
+    {
+      "source_id": "094",
+      "variant": "crop11",
+      "sample_id": "094_crop11"
+    },
+    {
+      "source_id": "003",
+      "variant": "crop00",
+      "sample_id": "003_crop00"
+    },
+    {
+      "source_id": "041",
+      "variant": "crop10",
+      "sample_id": "041_crop10"
+    },
+    {
+      "source_id": "032",
+      "variant": "crop01",
+      "sample_id": "032_crop01"
+    },
+    {
+      "source_id": "046",
+      "variant": "crop11",
+      "sample_id": "046_crop11"
+    },
+    {
+      "source_id": "074",
+      "variant": "flip_h",
+      "sample_id": "074_flip_h"
+    },
+    {
+      "source_id": "072",
+      "variant": "flip_v",
+      "sample_id": "072_flip_v"
+    },
+    {
+      "source_id": "035",
+      "variant": "crop11",
+      "sample_id": "035_crop11"
+    },
+    {
+      "source_id": "084",
+      "variant": "crop01",
+      "sample_id": "084_crop01"
+    },
+    {
+      "source_id": "085",
+      "variant": "crop10",
+      "sample_id": "085_crop10"
+    },
+    {
+      "source_id": "043",
+      "variant": "original",
+      "sample_id": "043_original"
+    },
+    {
+      "source_id": "010",
+      "variant": "crop11",
+      "sample_id": "010_crop11"
+    },
+    {
+      "source_id": "079",
+      "variant": "rot90",
+      "sample_id": "079_rot90"
+    },
+    {
+      "source_id": "084",
+      "variant": "flip_v",
+      "sample_id": "084_flip_v"
+    },
+    {
+      "source_id": "051",
+      "variant": "crop10",
+      "sample_id": "051_crop10"
+    },
+    {
+      "source_id": "070",
+      "variant": "flip_v",
+      "sample_id": "070_flip_v"
+    },
+    {
+      "source_id": "095",
+      "variant": "crop01",
+      "sample_id": "095_crop01"
+    },
+    {
+      "source_id": "007",
+      "variant": "flip_h",
+      "sample_id": "007_flip_h"
+    },
+    {
+      "source_id": "033",
+      "variant": "original",
+      "sample_id": "033_original"
+    },
+    {
+      "source_id": "034",
+      "variant": "rot180",
+      "sample_id": "034_rot180"
+    },
+    {
+      "source_id": "001",
+      "variant": "rot270",
+      "sample_id": "001_rot270"
+    },
+    {
+      "source_id": "015",
+      "variant": "crop11",
+      "sample_id": "015_crop11"
+    },
+    {
+      "source_id": "039",
+      "variant": "rot180",
+      "sample_id": "039_rot180"
+    },
+    {
+      "source_id": "002",
+      "variant": "flip_h",
+      "sample_id": "002_flip_h"
+    },
+    {
+      "source_id": "070",
+      "variant": "crop10",
+      "sample_id": "070_crop10"
+    },
+    {
+      "source_id": "085",
+      "variant": "rot270",
+      "sample_id": "085_rot270"
+    },
+    {
+      "source_id": "003",
+      "variant": "crop01",
+      "sample_id": "003_crop01"
+    },
+    {
+      "source_id": "066",
+      "variant": "rot90",
+      "sample_id": "066_rot90"
+    },
+    {
+      "source_id": "081",
+      "variant": "rot180",
+      "sample_id": "081_rot180"
+    },
+    {
+      "source_id": "011",
+      "variant": "crop01",
+      "sample_id": "011_crop01"
+    },
+    {
+      "source_id": "046",
+      "variant": "crop00",
+      "sample_id": "046_crop00"
+    },
+    {
+      "source_id": "048",
+      "variant": "crop00",
+      "sample_id": "048_crop00"
+    },
+    {
+      "source_id": "030",
+      "variant": "crop11",
+      "sample_id": "030_crop11"
+    },
+    {
+      "source_id": "090",
+      "variant": "crop00",
+      "sample_id": "090_crop00"
+    },
+    {
+      "source_id": "045",
+      "variant": "original",
+      "sample_id": "045_original"
+    },
+    {
+      "source_id": "053",
+      "variant": "rot180",
+      "sample_id": "053_rot180"
+    },
+    {
+      "source_id": "095",
+      "variant": "rot90",
+      "sample_id": "095_rot90"
+    },
+    {
+      "source_id": "054",
+      "variant": "flip_h",
+      "sample_id": "054_flip_h"
+    },
+    {
+      "source_id": "094",
+      "variant": "rot180",
+      "sample_id": "094_rot180"
+    },
+    {
+      "source_id": "041",
+      "variant": "rot270",
+      "sample_id": "041_rot270"
+    },
+    {
+      "source_id": "062",
+      "variant": "original",
+      "sample_id": "062_original"
+    },
+    {
+      "source_id": "041",
+      "variant": "flip_h",
+      "sample_id": "041_flip_h"
+    },
+    {
+      "source_id": "078",
+      "variant": "flip_v",
+      "sample_id": "078_flip_v"
+    },
+    {
+      "source_id": "018",
+      "variant": "original",
+      "sample_id": "018_original"
+    },
+    {
+      "source_id": "018",
+      "variant": "rot270",
+      "sample_id": "018_rot270"
+    },
+    {
+      "source_id": "093",
+      "variant": "flip_h",
+      "sample_id": "093_flip_h"
+    },
+    {
+      "source_id": "039",
+      "variant": "flip_v",
+      "sample_id": "039_flip_v"
+    },
+    {
+      "source_id": "093",
+      "variant": "flip_v",
+      "sample_id": "093_flip_v"
+    },
+    {
+      "source_id": "050",
+      "variant": "crop00",
+      "sample_id": "050_crop00"
+    },
+    {
+      "source_id": "048",
+      "variant": "flip_v",
+      "sample_id": "048_flip_v"
+    },
+    {
+      "source_id": "053",
+      "variant": "crop11",
+      "sample_id": "053_crop11"
+    },
+    {
+      "source_id": "081",
+      "variant": "crop10",
+      "sample_id": "081_crop10"
+    },
+    {
+      "source_id": "042",
+      "variant": "crop01",
+      "sample_id": "042_crop01"
+    },
+    {
+      "source_id": "084",
+      "variant": "crop11",
+      "sample_id": "084_crop11"
+    },
+    {
+      "source_id": "068",
+      "variant": "rot270",
+      "sample_id": "068_rot270"
+    },
+    {
+      "source_id": "066",
+      "variant": "rot270",
+      "sample_id": "066_rot270"
+    },
+    {
+      "source_id": "038",
+      "variant": "rot180",
+      "sample_id": "038_rot180"
+    },
+    {
+      "source_id": "016",
+      "variant": "rot270",
+      "sample_id": "016_rot270"
+    },
+    {
+      "source_id": "025",
+      "variant": "crop00",
+      "sample_id": "025_crop00"
+    },
+    {
+      "source_id": "024",
+      "variant": "flip_v",
+      "sample_id": "024_flip_v"
+    },
+    {
+      "source_id": "057",
+      "variant": "rot270",
+      "sample_id": "057_rot270"
+    },
+    {
+      "source_id": "041",
+      "variant": "rot90",
+      "sample_id": "041_rot90"
+    },
+    {
+      "source_id": "028",
+      "variant": "flip_h",
+      "sample_id": "028_flip_h"
+    },
+    {
+      "source_id": "033",
+      "variant": "rot270",
+      "sample_id": "033_rot270"
+    },
+    {
+      "source_id": "005",
+      "variant": "original",
+      "sample_id": "005_original"
+    },
+    {
+      "source_id": "100",
+      "variant": "crop11",
+      "sample_id": "100_crop11"
+    },
+    {
+      "source_id": "020",
+      "variant": "rot180",
+      "sample_id": "020_rot180"
+    },
+    {
+      "source_id": "055",
+      "variant": "crop01",
+      "sample_id": "055_crop01"
+    },
+    {
+      "source_id": "100",
+      "variant": "flip_h",
+      "sample_id": "100_flip_h"
+    },
+    {
+      "source_id": "066",
+      "variant": "crop00",
+      "sample_id": "066_crop00"
+    },
+    {
+      "source_id": "088",
+      "variant": "rot270",
+      "sample_id": "088_rot270"
+    },
+    {
+      "source_id": "058",
+      "variant": "rot90",
+      "sample_id": "058_rot90"
+    },
+    {
+      "source_id": "059",
+      "variant": "rot180",
+      "sample_id": "059_rot180"
+    },
+    {
+      "source_id": "058",
+      "variant": "crop11",
+      "sample_id": "058_crop11"
+    },
+    {
+      "source_id": "057",
+      "variant": "flip_v",
+      "sample_id": "057_flip_v"
+    },
+    {
+      "source_id": "074",
+      "variant": "rot180",
+      "sample_id": "074_rot180"
+    },
+    {
+      "source_id": "032",
+      "variant": "flip_v",
+      "sample_id": "032_flip_v"
+    },
+    {
+      "source_id": "049",
+      "variant": "crop00",
+      "sample_id": "049_crop00"
+    },
+    {
+      "source_id": "025",
+      "variant": "rot90",
+      "sample_id": "025_rot90"
+    },
+    {
+      "source_id": "084",
+      "variant": "rot180",
+      "sample_id": "084_rot180"
+    },
+    {
+      "source_id": "098",
+      "variant": "crop01",
+      "sample_id": "098_crop01"
+    },
+    {
+      "source_id": "077",
+      "variant": "flip_h",
+      "sample_id": "077_flip_h"
+    },
+    {
+      "source_id": "086",
+      "variant": "original",
+      "sample_id": "086_original"
+    },
+    {
+      "source_id": "068",
+      "variant": "crop00",
+      "sample_id": "068_crop00"
+    },
+    {
+      "source_id": "030",
+      "variant": "crop00",
+      "sample_id": "030_crop00"
+    },
+    {
+      "source_id": "062",
+      "variant": "crop01",
+      "sample_id": "062_crop01"
+    },
+    {
+      "source_id": "066",
+      "variant": "flip_v",
+      "sample_id": "066_flip_v"
+    },
+    {
+      "source_id": "095",
+      "variant": "crop00",
+      "sample_id": "095_crop00"
+    },
+    {
+      "source_id": "005",
+      "variant": "rot270",
+      "sample_id": "005_rot270"
+    },
+    {
+      "source_id": "056",
+      "variant": "rot270",
+      "sample_id": "056_rot270"
+    },
+    {
+      "source_id": "050",
+      "variant": "original",
+      "sample_id": "050_original"
+    },
+    {
+      "source_id": "066",
+      "variant": "crop10",
+      "sample_id": "066_crop10"
+    },
+    {
+      "source_id": "052",
+      "variant": "original",
+      "sample_id": "052_original"
+    },
+    {
+      "source_id": "016",
+      "variant": "crop11",
+      "sample_id": "016_crop11"
+    },
+    {
+      "source_id": "053",
+      "variant": "rot90",
+      "sample_id": "053_rot90"
+    },
+    {
+      "source_id": "047",
+      "variant": "crop10",
+      "sample_id": "047_crop10"
+    },
+    {
+      "source_id": "014",
+      "variant": "flip_v",
+      "sample_id": "014_flip_v"
+    },
+    {
+      "source_id": "019",
+      "variant": "rot90",
+      "sample_id": "019_rot90"
+    },
+    {
+      "source_id": "066",
+      "variant": "original",
+      "sample_id": "066_original"
+    },
+    {
+      "source_id": "095",
+      "variant": "flip_h",
+      "sample_id": "095_flip_h"
+    },
+    {
+      "source_id": "023",
+      "variant": "crop01",
+      "sample_id": "023_crop01"
+    },
+    {
+      "source_id": "023",
+      "variant": "rot90",
+      "sample_id": "023_rot90"
+    },
+    {
+      "source_id": "036",
+      "variant": "flip_h",
+      "sample_id": "036_flip_h"
+    },
+    {
+      "source_id": "022",
+      "variant": "rot180",
+      "sample_id": "022_rot180"
+    },
+    {
+      "source_id": "012",
+      "variant": "flip_v",
+      "sample_id": "012_flip_v"
+    },
+    {
+      "source_id": "092",
+      "variant": "crop11",
+      "sample_id": "092_crop11"
+    },
+    {
+      "source_id": "083",
+      "variant": "flip_h",
+      "sample_id": "083_flip_h"
+    },
+    {
+      "source_id": "021",
+      "variant": "crop10",
+      "sample_id": "021_crop10"
+    },
+    {
+      "source_id": "033",
+      "variant": "flip_v",
+      "sample_id": "033_flip_v"
+    },
+    {
+      "source_id": "054",
+      "variant": "crop10",
+      "sample_id": "054_crop10"
+    },
+    {
+      "source_id": "088",
+      "variant": "flip_v",
+      "sample_id": "088_flip_v"
+    },
+    {
+      "source_id": "027",
+      "variant": "flip_h",
+      "sample_id": "027_flip_h"
+    },
+    {
+      "source_id": "028",
+      "variant": "rot180",
+      "sample_id": "028_rot180"
+    },
+    {
+      "source_id": "091",
+      "variant": "crop01",
+      "sample_id": "091_crop01"
+    },
+    {
+      "source_id": "038",
+      "variant": "rot90",
+      "sample_id": "038_rot90"
+    },
+    {
+      "source_id": "005",
+      "variant": "rot90",
+      "sample_id": "005_rot90"
+    },
+    {
+      "source_id": "099",
+      "variant": "flip_h",
+      "sample_id": "099_flip_h"
+    },
+    {
+      "source_id": "013",
+      "variant": "crop00",
+      "sample_id": "013_crop00"
+    },
+    {
+      "source_id": "088",
+      "variant": "rot180",
+      "sample_id": "088_rot180"
+    },
+    {
+      "source_id": "010",
+      "variant": "crop01",
+      "sample_id": "010_crop01"
+    },
+    {
+      "source_id": "015",
+      "variant": "rot180",
+      "sample_id": "015_rot180"
+    },
+    {
+      "source_id": "068",
+      "variant": "flip_h",
+      "sample_id": "068_flip_h"
+    },
+    {
+      "source_id": "041",
+      "variant": "crop11",
+      "sample_id": "041_crop11"
+    },
+    {
+      "source_id": "001",
+      "variant": "rot90",
+      "sample_id": "001_rot90"
+    },
+    {
+      "source_id": "080",
+      "variant": "crop00",
+      "sample_id": "080_crop00"
+    },
+    {
+      "source_id": "090",
+      "variant": "crop10",
+      "sample_id": "090_crop10"
+    },
+    {
+      "source_id": "047",
+      "variant": "flip_v",
+      "sample_id": "047_flip_v"
+    },
+    {
+      "source_id": "047",
+      "variant": "crop11",
+      "sample_id": "047_crop11"
+    },
+    {
+      "source_id": "041",
+      "variant": "crop00",
+      "sample_id": "041_crop00"
+    },
+    {
+      "source_id": "065",
+      "variant": "original",
+      "sample_id": "065_original"
+    },
+    {
+      "source_id": "073",
+      "variant": "crop11",
+      "sample_id": "073_crop11"
+    },
+    {
+      "source_id": "056",
+      "variant": "crop10",
+      "sample_id": "056_crop10"
+    },
+    {
+      "source_id": "073",
+      "variant": "rot270",
+      "sample_id": "073_rot270"
+    },
+    {
+      "source_id": "089",
+      "variant": "flip_h",
+      "sample_id": "089_flip_h"
+    },
+    {
+      "source_id": "097",
+      "variant": "original",
+      "sample_id": "097_original"
+    },
+    {
+      "source_id": "083",
+      "variant": "rot270",
+      "sample_id": "083_rot270"
+    },
+    {
+      "source_id": "090",
+      "variant": "flip_v",
+      "sample_id": "090_flip_v"
+    },
+    {
+      "source_id": "035",
+      "variant": "rot270",
+      "sample_id": "035_rot270"
+    },
+    {
+      "source_id": "057",
+      "variant": "crop10",
+      "sample_id": "057_crop10"
+    },
+    {
+      "source_id": "096",
+      "variant": "crop01",
+      "sample_id": "096_crop01"
+    },
+    {
+      "source_id": "091",
+      "variant": "flip_v",
+      "sample_id": "091_flip_v"
+    },
+    {
+      "source_id": "013",
+      "variant": "original",
+      "sample_id": "013_original"
+    },
+    {
+      "source_id": "080",
+      "variant": "rot180",
+      "sample_id": "080_rot180"
+    },
+    {
+      "source_id": "054",
+      "variant": "crop00",
+      "sample_id": "054_crop00"
+    },
+    {
+      "source_id": "082",
+      "variant": "rot270",
+      "sample_id": "082_rot270"
+    },
+    {
+      "source_id": "025",
+      "variant": "flip_h",
+      "sample_id": "025_flip_h"
+    },
+    {
+      "source_id": "086",
+      "variant": "rot180",
+      "sample_id": "086_rot180"
+    },
+    {
+      "source_id": "028",
+      "variant": "crop11",
+      "sample_id": "028_crop11"
+    },
+    {
+      "source_id": "023",
+      "variant": "rot180",
+      "sample_id": "023_rot180"
+    },
+    {
+      "source_id": "020",
+      "variant": "crop11",
+      "sample_id": "020_crop11"
+    },
+    {
+      "source_id": "099",
+      "variant": "crop11",
+      "sample_id": "099_crop11"
+    },
+    {
+      "source_id": "022",
+      "variant": "crop11",
+      "sample_id": "022_crop11"
+    },
+    {
+      "source_id": "020",
+      "variant": "crop00",
+      "sample_id": "020_crop00"
+    },
+    {
+      "source_id": "070",
+      "variant": "rot180",
+      "sample_id": "070_rot180"
+    },
+    {
+      "source_id": "081",
+      "variant": "crop01",
+      "sample_id": "081_crop01"
+    },
+    {
+      "source_id": "076",
+      "variant": "crop10",
+      "sample_id": "076_crop10"
+    },
+    {
+      "source_id": "010",
+      "variant": "crop10",
+      "sample_id": "010_crop10"
+    },
+    {
+      "source_id": "020",
+      "variant": "original",
+      "sample_id": "020_original"
+    },
+    {
+      "source_id": "003",
+      "variant": "flip_h",
+      "sample_id": "003_flip_h"
+    },
+    {
+      "source_id": "081",
+      "variant": "crop00",
+      "sample_id": "081_crop00"
+    },
+    {
+      "source_id": "068",
+      "variant": "flip_v",
+      "sample_id": "068_flip_v"
+    },
+    {
+      "source_id": "100",
+      "variant": "original",
+      "sample_id": "100_original"
+    },
+    {
+      "source_id": "076",
+      "variant": "rot90",
+      "sample_id": "076_rot90"
+    },
+    {
+      "source_id": "022",
+      "variant": "flip_h",
+      "sample_id": "022_flip_h"
+    },
+    {
+      "source_id": "037",
+      "variant": "rot180",
+      "sample_id": "037_rot180"
+    },
+    {
+      "source_id": "050",
+      "variant": "flip_v",
+      "sample_id": "050_flip_v"
+    },
+    {
+      "source_id": "022",
+      "variant": "rot90",
+      "sample_id": "022_rot90"
+    },
+    {
+      "source_id": "035",
+      "variant": "crop00",
+      "sample_id": "035_crop00"
+    },
+    {
+      "source_id": "061",
+      "variant": "crop01",
+      "sample_id": "061_crop01"
+    },
+    {
+      "source_id": "017",
+      "variant": "rot90",
+      "sample_id": "017_rot90"
+    },
+    {
+      "source_id": "052",
+      "variant": "rot90",
+      "sample_id": "052_rot90"
+    },
+    {
+      "source_id": "015",
+      "variant": "crop00",
+      "sample_id": "015_crop00"
+    },
+    {
+      "source_id": "004",
+      "variant": "rot90",
+      "sample_id": "004_rot90"
+    },
+    {
+      "source_id": "028",
+      "variant": "rot270",
+      "sample_id": "028_rot270"
+    },
+    {
+      "source_id": "025",
+      "variant": "original",
+      "sample_id": "025_original"
+    },
+    {
+      "source_id": "044",
+      "variant": "crop01",
+      "sample_id": "044_crop01"
+    },
+    {
+      "source_id": "021",
+      "variant": "flip_v",
+      "sample_id": "021_flip_v"
+    },
+    {
+      "source_id": "014",
+      "variant": "rot90",
+      "sample_id": "014_rot90"
+    },
+    {
+      "source_id": "023",
+      "variant": "crop10",
+      "sample_id": "023_crop10"
+    },
+    {
+      "source_id": "036",
+      "variant": "flip_v",
+      "sample_id": "036_flip_v"
+    },
+    {
+      "source_id": "032",
+      "variant": "rot90",
+      "sample_id": "032_rot90"
+    },
+    {
+      "source_id": "037",
+      "variant": "original",
+      "sample_id": "037_original"
+    },
+    {
+      "source_id": "092",
+      "variant": "crop10",
+      "sample_id": "092_crop10"
+    },
+    {
+      "source_id": "005",
+      "variant": "crop10",
+      "sample_id": "005_crop10"
+    },
+    {
+      "source_id": "029",
+      "variant": "crop10",
+      "sample_id": "029_crop10"
+    },
+    {
+      "source_id": "018",
+      "variant": "flip_h",
+      "sample_id": "018_flip_h"
+    },
+    {
+      "source_id": "084",
+      "variant": "crop00",
+      "sample_id": "084_crop00"
+    },
+    {
+      "source_id": "097",
+      "variant": "rot270",
+      "sample_id": "097_rot270"
+    },
+    {
+      "source_id": "019",
+      "variant": "crop01",
+      "sample_id": "019_crop01"
+    },
+    {
+      "source_id": "087",
+      "variant": "crop01",
+      "sample_id": "087_crop01"
+    },
+    {
+      "source_id": "089",
+      "variant": "rot180",
+      "sample_id": "089_rot180"
+    },
+    {
+      "source_id": "096",
+      "variant": "rot90",
+      "sample_id": "096_rot90"
+    },
+    {
+      "source_id": "091",
+      "variant": "rot180",
+      "sample_id": "091_rot180"
+    },
+    {
+      "source_id": "098",
+      "variant": "crop00",
+      "sample_id": "098_crop00"
+    },
+    {
+      "source_id": "031",
+      "variant": "crop01",
+      "sample_id": "031_crop01"
+    },
+    {
+      "source_id": "036",
+      "variant": "crop00",
+      "sample_id": "036_crop00"
+    },
+    {
+      "source_id": "001",
+      "variant": "flip_v",
+      "sample_id": "001_flip_v"
+    },
+    {
+      "source_id": "018",
+      "variant": "crop01",
+      "sample_id": "018_crop01"
+    },
+    {
+      "source_id": "038",
+      "variant": "original",
+      "sample_id": "038_original"
+    },
+    {
+      "source_id": "099",
+      "variant": "crop01",
+      "sample_id": "099_crop01"
+    },
+    {
+      "source_id": "081",
+      "variant": "flip_v",
+      "sample_id": "081_flip_v"
+    },
+    {
+      "source_id": "034",
+      "variant": "flip_h",
+      "sample_id": "034_flip_h"
+    },
+    {
+      "source_id": "015",
+      "variant": "rot270",
+      "sample_id": "015_rot270"
+    },
+    {
+      "source_id": "050",
+      "variant": "rot90",
+      "sample_id": "050_rot90"
+    },
+    {
+      "source_id": "098",
+      "variant": "crop10",
+      "sample_id": "098_crop10"
+    },
+    {
+      "source_id": "081",
+      "variant": "rot270",
+      "sample_id": "081_rot270"
+    },
+    {
+      "source_id": "051",
+      "variant": "crop01",
+      "sample_id": "051_crop01"
+    },
+    {
+      "source_id": "022",
+      "variant": "crop01",
+      "sample_id": "022_crop01"
+    },
+    {
+      "source_id": "027",
+      "variant": "crop01",
+      "sample_id": "027_crop01"
+    },
+    {
+      "source_id": "037",
+      "variant": "flip_h",
+      "sample_id": "037_flip_h"
+    },
+    {
+      "source_id": "018",
+      "variant": "rot90",
+      "sample_id": "018_rot90"
+    },
+    {
+      "source_id": "086",
+      "variant": "flip_v",
+      "sample_id": "086_flip_v"
+    },
+    {
+      "source_id": "004",
+      "variant": "rot270",
+      "sample_id": "004_rot270"
+    },
+    {
+      "source_id": "044",
+      "variant": "rot90",
+      "sample_id": "044_rot90"
+    },
+    {
+      "source_id": "078",
+      "variant": "rot180",
+      "sample_id": "078_rot180"
+    },
+    {
+      "source_id": "017",
+      "variant": "crop10",
+      "sample_id": "017_crop10"
+    },
+    {
+      "source_id": "077",
+      "variant": "flip_v",
+      "sample_id": "077_flip_v"
+    }
+  ],
+  "validation": [
+    {
+      "source_id": "004",
+      "variant": "original",
+      "sample_id": "004_original"
+    },
+    {
+      "source_id": "021",
+      "variant": "crop00",
+      "sample_id": "021_crop00"
+    },
+    {
+      "source_id": "088",
+      "variant": "crop11",
+      "sample_id": "088_crop11"
+    },
+    {
+      "source_id": "005",
+      "variant": "rot180",
+      "sample_id": "005_rot180"
+    },
+    {
+      "source_id": "014",
+      "variant": "flip_h",
+      "sample_id": "014_flip_h"
+    },
+    {
+      "source_id": "077",
+      "variant": "rot270",
+      "sample_id": "077_rot270"
+    },
+    {
+      "source_id": "024",
+      "variant": "rot180",
+      "sample_id": "024_rot180"
+    },
+    {
+      "source_id": "031",
+      "variant": "rot180",
+      "sample_id": "031_rot180"
+    },
+    {
+      "source_id": "034",
+      "variant": "crop01",
+      "sample_id": "034_crop01"
+    },
+    {
+      "source_id": "028",
+      "variant": "crop01",
+      "sample_id": "028_crop01"
+    },
+    {
+      "source_id": "068",
+      "variant": "crop10",
+      "sample_id": "068_crop10"
+    },
+    {
+      "source_id": "017",
+      "variant": "original",
+      "sample_id": "017_original"
+    },
+    {
+      "source_id": "041",
+      "variant": "flip_v",
+      "sample_id": "041_flip_v"
+    },
+    {
+      "source_id": "092",
+      "variant": "rot90",
+      "sample_id": "092_rot90"
+    },
+    {
+      "source_id": "037",
+      "variant": "crop10",
+      "sample_id": "037_crop10"
+    },
+    {
+      "source_id": "007",
+      "variant": "rot90",
+      "sample_id": "007_rot90"
+    },
+    {
+      "source_id": "004",
+      "variant": "flip_h",
+      "sample_id": "004_flip_h"
+    },
+    {
+      "source_id": "062",
+      "variant": "crop00",
+      "sample_id": "062_crop00"
+    },
+    {
+      "source_id": "035",
+      "variant": "rot180",
+      "sample_id": "035_rot180"
+    },
+    {
+      "source_id": "062",
+      "variant": "flip_v",
+      "sample_id": "062_flip_v"
+    },
+    {
+      "source_id": "016",
+      "variant": "crop10",
+      "sample_id": "016_crop10"
+    },
+    {
+      "source_id": "093",
+      "variant": "crop10",
+      "sample_id": "093_crop10"
+    },
+    {
+      "source_id": "067",
+      "variant": "rot180",
+      "sample_id": "067_rot180"
+    },
+    {
+      "source_id": "032",
+      "variant": "crop10",
+      "sample_id": "032_crop10"
+    },
+    {
+      "source_id": "076",
+      "variant": "crop01",
+      "sample_id": "076_crop01"
+    },
+    {
+      "source_id": "083",
+      "variant": "original",
+      "sample_id": "083_original"
+    },
+    {
+      "source_id": "062",
+      "variant": "rot270",
+      "sample_id": "062_rot270"
+    },
+    {
+      "source_id": "048",
+      "variant": "rot180",
+      "sample_id": "048_rot180"
+    },
+    {
+      "source_id": "090",
+      "variant": "rot270",
+      "sample_id": "090_rot270"
+    },
+    {
+      "source_id": "055",
+      "variant": "crop00",
+      "sample_id": "055_crop00"
+    },
+    {
+      "source_id": "054",
+      "variant": "original",
+      "sample_id": "054_original"
+    },
+    {
+      "source_id": "055",
+      "variant": "flip_v",
+      "sample_id": "055_flip_v"
+    },
+    {
+      "source_id": "044",
+      "variant": "crop00",
+      "sample_id": "044_crop00"
+    },
+    {
+      "source_id": "023",
+      "variant": "rot270",
+      "sample_id": "023_rot270"
+    },
+    {
+      "source_id": "096",
+      "variant": "crop11",
+      "sample_id": "096_crop11"
+    },
+    {
+      "source_id": "005",
+      "variant": "crop01",
+      "sample_id": "005_crop01"
+    },
+    {
+      "source_id": "083",
+      "variant": "rot90",
+      "sample_id": "083_rot90"
+    },
+    {
+      "source_id": "003",
+      "variant": "rot90",
+      "sample_id": "003_rot90"
+    },
+    {
+      "source_id": "018",
+      "variant": "flip_v",
+      "sample_id": "018_flip_v"
+    },
+    {
+      "source_id": "087",
+      "variant": "rot270",
+      "sample_id": "087_rot270"
+    },
+    {
+      "source_id": "043",
+      "variant": "crop00",
+      "sample_id": "043_crop00"
+    },
+    {
+      "source_id": "039",
+      "variant": "crop11",
+      "sample_id": "039_crop11"
+    },
+    {
+      "source_id": "021",
+      "variant": "crop01",
+      "sample_id": "021_crop01"
+    },
+    {
+      "source_id": "031",
+      "variant": "original",
+      "sample_id": "031_original"
+    },
+    {
+      "source_id": "008",
+      "variant": "crop01",
+      "sample_id": "008_crop01"
+    },
+    {
+      "source_id": "004",
+      "variant": "crop01",
+      "sample_id": "004_crop01"
+    },
+    {
+      "source_id": "087",
+      "variant": "rot90",
+      "sample_id": "087_rot90"
+    },
+    {
+      "source_id": "023",
+      "variant": "crop00",
+      "sample_id": "023_crop00"
+    },
+    {
+      "source_id": "036",
+      "variant": "rot180",
+      "sample_id": "036_rot180"
+    },
+    {
+      "source_id": "096",
+      "variant": "rot180",
+      "sample_id": "096_rot180"
+    },
+    {
+      "source_id": "098",
+      "variant": "crop11",
+      "sample_id": "098_crop11"
+    },
+    {
+      "source_id": "090",
+      "variant": "rot90",
+      "sample_id": "090_rot90"
+    },
+    {
+      "source_id": "086",
+      "variant": "rot90",
+      "sample_id": "086_rot90"
+    },
+    {
+      "source_id": "034",
+      "variant": "original",
+      "sample_id": "034_original"
+    },
+    {
+      "source_id": "031",
+      "variant": "rot270",
+      "sample_id": "031_rot270"
+    },
+    {
+      "source_id": "072",
+      "variant": "original",
+      "sample_id": "072_original"
+    },
+    {
+      "source_id": "027",
+      "variant": "rot270",
+      "sample_id": "027_rot270"
+    },
+    {
+      "source_id": "057",
+      "variant": "crop11",
+      "sample_id": "057_crop11"
+    },
+    {
+      "source_id": "038",
+      "variant": "flip_v",
+      "sample_id": "038_flip_v"
+    },
+    {
+      "source_id": "057",
+      "variant": "rot90",
+      "sample_id": "057_rot90"
+    },
+    {
+      "source_id": "048",
+      "variant": "rot270",
+      "sample_id": "048_rot270"
+    },
+    {
+      "source_id": "027",
+      "variant": "crop11",
+      "sample_id": "027_crop11"
+    },
+    {
+      "source_id": "067",
+      "variant": "flip_h",
+      "sample_id": "067_flip_h"
+    },
+    {
+      "source_id": "097",
+      "variant": "crop01",
+      "sample_id": "097_crop01"
+    },
+    {
+      "source_id": "001",
+      "variant": "rot180",
+      "sample_id": "001_rot180"
+    },
+    {
+      "source_id": "091",
+      "variant": "crop00",
+      "sample_id": "091_crop00"
+    },
+    {
+      "source_id": "052",
+      "variant": "flip_v",
+      "sample_id": "052_flip_v"
+    },
+    {
+      "source_id": "002",
+      "variant": "crop11",
+      "sample_id": "002_crop11"
+    },
+    {
+      "source_id": "074",
+      "variant": "crop11",
+      "sample_id": "074_crop11"
+    },
+    {
+      "source_id": "007",
+      "variant": "original",
+      "sample_id": "007_original"
+    },
+    {
+      "source_id": "025",
+      "variant": "crop10",
+      "sample_id": "025_crop10"
+    },
+    {
+      "source_id": "045",
+      "variant": "crop10",
+      "sample_id": "045_crop10"
+    },
+    {
+      "source_id": "057",
+      "variant": "original",
+      "sample_id": "057_original"
+    },
+    {
+      "source_id": "005",
+      "variant": "flip_v",
+      "sample_id": "005_flip_v"
+    },
+    {
+      "source_id": "019",
+      "variant": "crop10",
+      "sample_id": "019_crop10"
+    },
+    {
+      "source_id": "092",
+      "variant": "flip_h",
+      "sample_id": "092_flip_h"
+    },
+    {
+      "source_id": "004",
+      "variant": "crop10",
+      "sample_id": "004_crop10"
+    },
+    {
+      "source_id": "093",
+      "variant": "rot180",
+      "sample_id": "093_rot180"
+    },
+    {
+      "source_id": "056",
+      "variant": "original",
+      "sample_id": "056_original"
+    },
+    {
+      "source_id": "065",
+      "variant": "flip_v",
+      "sample_id": "065_flip_v"
+    },
+    {
+      "source_id": "032",
+      "variant": "rot180",
+      "sample_id": "032_rot180"
+    },
+    {
+      "source_id": "024",
+      "variant": "flip_h",
+      "sample_id": "024_flip_h"
+    },
+    {
+      "source_id": "037",
+      "variant": "crop11",
+      "sample_id": "037_crop11"
+    },
+    {
+      "source_id": "037",
+      "variant": "crop00",
+      "sample_id": "037_crop00"
+    },
+    {
+      "source_id": "002",
+      "variant": "crop00",
+      "sample_id": "002_crop00"
+    },
+    {
+      "source_id": "054",
+      "variant": "crop11",
+      "sample_id": "054_crop11"
+    },
+    {
+      "source_id": "049",
+      "variant": "rot180",
+      "sample_id": "049_rot180"
+    },
+    {
+      "source_id": "045",
+      "variant": "crop01",
+      "sample_id": "045_crop01"
+    },
+    {
+      "source_id": "058",
+      "variant": "flip_v",
+      "sample_id": "058_flip_v"
+    },
+    {
+      "source_id": "087",
+      "variant": "rot180",
+      "sample_id": "087_rot180"
+    }
+  ],
+  "test": [
+    {
+      "source_id": "006",
+      "variant": "original",
+      "sample_id": "006"
+    },
+    {
+      "source_id": "009",
+      "variant": "original",
+      "sample_id": "009"
+    },
+    {
+      "source_id": "026",
+      "variant": "original",
+      "sample_id": "026"
+    },
+    {
+      "source_id": "040",
+      "variant": "original",
+      "sample_id": "040"
+    },
+    {
+      "source_id": "060",
+      "variant": "original",
+      "sample_id": "060"
+    },
+    {
+      "source_id": "063",
+      "variant": "original",
+      "sample_id": "063"
+    },
+    {
+      "source_id": "064",
+      "variant": "original",
+      "sample_id": "064"
+    },
+    {
+      "source_id": "069",
+      "variant": "original",
+      "sample_id": "069"
+    },
+    {
+      "source_id": "071",
+      "variant": "original",
+      "sample_id": "071"
+    },
+    {
+      "source_id": "075",
+      "variant": "original",
+      "sample_id": "075"
+    }
+  ]
+}

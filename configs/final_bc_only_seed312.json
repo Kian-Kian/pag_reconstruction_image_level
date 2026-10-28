@@ -1,0 +1,21 @@
+{
+  "mode": "bc_only",
+  "base": 64,
+  "epochs": 200,
+  "batch_size": 16,
+  "lr": 0.0002,
+  "weight_decay": 0.01,
+  "seed": 312,
+  "gb_drop": 0.7,
+  "amp": true,
+  "weights": {
+    "SSIM": 1.0,
+    "Hue": 1.0,
+    "Cos": 1.0
+  },
+  "name": "final_bc_only_seed312",
+  "vis_every": 10,
+  "cam_every": 50,
+  "vis_samples": 3,
+  "amp_dtype": "bf16"
+}
